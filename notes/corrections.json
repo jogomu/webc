@@ -1,0 +1,4826 @@
+{
+  "corrections": [
+    {
+      "book": "EXO",
+      "where": "title",
+      "type": "typo",
+      "find": "Mosis",
+      "replace": "Moses",
+      "reason": "Upstream typo in the source’s USFM toc1 title line; compare Genesis, Numbers, and Deuteronomy, which read “Moses”. The same spelling appears in eBible.org’s metadata book names."
+    },
+    {
+      "book": "LEV",
+      "where": "title",
+      "type": "typo",
+      "find": "Mosis",
+      "replace": "Moses",
+      "reason": "Upstream typo in the source’s USFM toc1 title line; compare Genesis, Numbers, and Deuteronomy, which read “Moses”. The same spelling appears in eBible.org’s metadata book names."
+    },
+    {
+      "book": "ROM",
+      "where": "3:25",
+      "type": "editor",
+      "find": "atoning sacrifice",
+      "note": "A place of atonement, i.e. the mercy seat of the ark of the covenant."
+    },
+    {
+      "book": "JUD",
+      "where": "1:11",
+      "type": "editor",
+      "find": "Korah’s rebellion",
+      "note": "Korah’s rebellion (Numbers 16) was against ordained authority; hence the Church retains an ordained hierarchy."
+    },
+    {
+      "book": "GEN",
+      "where": "3:15",
+      "type": "editor",
+      "find": "He will bruise your head",
+      "note": "“He” has also been read as “they/their” (the offspring collectively), or even “she/her”, as in the Clementine Vulgate’s “ipsa conteret”. The Nova Vulgata reads the neuter “ipsum”, agreeing with “semen” (the offspring)."
+    },
+    {
+      "book": "GEN",
+      "where": "24:63",
+      "type": "editor",
+      "find": "went out to meditate in the field",
+      "note": "If “lamenting” (so the Nova Vulgata, “ad lamentandum”), Isaac may be grieving for his mother; compare 24:67. Others render “walking”."
+    },
+    {
+      "book": "GEN",
+      "where": "30:14",
+      "type": "editor",
+      "find": "mandrakes",
+      "occurrence": 1,
+      "note": "Mandrakes were thought to promote fertility; Rachel apparently sought them in hope of conceiving."
+    },
+    {
+      "book": "GEN",
+      "where": "49:24",
+      "type": "nova-vulgata",
+      "find": "But his bow remained strong.",
+      "replace": "And their bow was broken,",
+      "reason": "Nova Vulgata, Genesis 49:24: “Et confractus est arcus eorum”; so also the Septuagint: “συνετρίβη μετὰ κράτους τὰ τόξα αὐτῶν”."
+    },
+    {
+      "book": "GEN",
+      "where": "49:24",
+      "type": "nova-vulgata",
+      "find": "The arms of his hands were made strong,",
+      "replace": "and the sinews of their arms were loosened,",
+      "reason": "Nova Vulgata, Genesis 49:24: “et dissoluti sunt nervi brachiorum eorum”; so also the Septuagint: “ἐξελύθη τὰ νεῦρα βραχιόνων χειρῶν αὐτῶν”."
+    },
+    {
+      "book": "EXO",
+      "where": "10:2",
+      "type": "editor",
+      "find": "what things I have done to Egypt",
+      "note": "The Hebrew can also be read “how I made fools of Egypt”."
+    },
+    {
+      "book": "EXO",
+      "where": "15:16",
+      "type": "nova-vulgata",
+      "find": "the people you have purchased",
+      "replace": "the people you made your own",
+      "reason": "Nova Vulgata, Exodus 15:16: “quem possedisti”."
+    },
+    {
+      "book": "PSA",
+      "where": "2:12",
+      "type": "editor",
+      "find": "Give sincere homage to the Son,",
+      "note": "Some emend to “kiss his feet”."
+    },
+    {
+      "book": "PSA",
+      "where": "7:11",
+      "type": "lxx",
+      "find": "yes, a God who has indignation every day.",
+      "note": "The Septuagint (Psalm 7:12 there: “ἰσχυρὸς καὶ μακρόθυμος, μὴ ὀργὴν ἐπάγων καθ᾽ ἑκάστην ἡμέραν”) reads “strong and patient, not bringing wrath every day”. The Nova Vulgata here follows the Hebrew: “fortis, irascens per singulos dies”."
+    },
+    {
+      "book": "PSA",
+      "where": "10:10",
+      "type": "editor",
+      "find": "The helpless are crushed.",
+      "note": "Or “he crouches, he lies low, and the helpless fall by his strength”."
+    },
+    {
+      "book": "PSA",
+      "where": "17:14",
+      "type": "nova-vulgata",
+      "find": "Your sons have plenty,",
+      "replace": "May their children be satisfied,",
+      "reason": "Nova Vulgata, Psalm 17(16):14: “saturentur filii”."
+    },
+    {
+      "book": "PSA",
+      "where": "22:25",
+      "type": "nova-vulgata",
+      "find": "My praise of you comes in the great assembly.",
+      "replace": "You are my praise in the great assembly.",
+      "reason": "Nova Vulgata, Psalm 22(21):26: “Apud te laus mea in ecclesia magna”. Rendered per the liturgical tradition (Grail Psalter: “You are my praise in the great assembly”)."
+    },
+    {
+      "book": "PSA",
+      "where": "27:8",
+      "type": "nova-vulgata",
+      "find": "When you said, “Seek my face,”",
+      "replace": "Of you my heart has spoken: “Seek my face!”",
+      "reason": "Nova Vulgata, Psalm 27(26):8: “De te dixit cor meum: ‘Exquirite faciem meam!’”."
+    },
+    {
+      "book": "PSA",
+      "where": "27:8",
+      "type": "nova-vulgata",
+      "find": "my heart said to you, “I will seek your face, LORD.”",
+      "replace": "Your face, LORD, I will seek.",
+      "reason": "Nova Vulgata, Psalm 27(26):8: “Faciem tuam, Domine, exquiram”."
+    },
+    {
+      "book": "MAT",
+      "where": "1:25",
+      "type": "editor",
+      "find": "until she had given birth to her firstborn son",
+      "note": "The “until” does not by itself imply later marital relations."
+    },
+    {
+      "book": "MAT",
+      "where": "5:32",
+      "type": "editor",
+      "find": "except for the cause of sexual immorality",
+      "note": "The meaning of “sexual immorality” (Greek porneia) here is disputed; one interpretation understands it as an unlawful union."
+    },
+    {
+      "book": "MAT",
+      "where": "19:9",
+      "type": "editor",
+      "find": "except for sexual immorality",
+      "note": "The meaning of “sexual immorality” (Greek porneia) here is disputed; one interpretation understands it as an unlawful union."
+    },
+    {
+      "book": "MAT",
+      "where": "6:20",
+      "type": "editor",
+      "find": "neither moth nor rust consume",
+      "note": "“Rust” (βρῶσις) is literally “eating” — decay."
+    },
+    {
+      "book": "MAT",
+      "where": "17:27",
+      "type": "editor",
+      "find": "lest we cause them to stumble",
+      "note": "Or “lest we offend them” (“σκανδαλίσωμεν”, cause to stumble, give offense) — the “we” being Jesus and Peter."
+    },
+    {
+      "book": "LUK",
+      "where": "1:28",
+      "type": "editor",
+      "find": "Rejoice, you highly favored one!",
+      "note": "Or “Hail, Receiver of Grace!” — the angel addresses Mary not by name but by the participle “κεχαριτωμένη”, a perfect passive of χαριτόω, “to bestow grace” (compare Ephesians 1:6): grace bestowed by God, received, and abiding — functioning as a title."
+    },
+    {
+      "book": "JHN",
+      "where": "2:4",
+      "type": "editor",
+      "find": "what does that have to do with you and me?",
+      "note": "Literally, “What to me and to you?” (“Quid mihi et tibi”); some render “what does that have to do with us?”"
+    },
+    {
+      "book": "HEB",
+      "where": "11:1",
+      "type": "nova-vulgata",
+      "find": "assurance of things hoped for",
+      "replace": "the substance of things hoped for",
+      "reason": "Nova Vulgata, Hebrews 11:1: “sperandorum substantia”."
+    },
+    {
+      "book": "GEN",
+      "where": "6:3",
+      "type": "nova-vulgata",
+      "find": "will not strive with man forever",
+      "replace": "will not remain in man forever",
+      "reason": "Nova Vulgata, Genesis 6:3: “Non permanebit spiritus meus in homine in aeternum”; so also the Septuagint: “οὐ μὴ καταμείνῃ τὸ πνεῦμά μου”."
+    },
+    {
+      "book": "GEN",
+      "where": "22:14",
+      "type": "nova-vulgata",
+      "find": "The LORD Will Provide",
+      "replace": "The LORD Sees",
+      "reason": "Nova Vulgata, Genesis 22:14: “Dominus videt”."
+    },
+    {
+      "book": "GEN",
+      "where": "22:14",
+      "type": "nova-vulgata",
+      "find": "On the LORD’s mountain, it will be provided.",
+      "replace": "On the mountain the LORD is seen.",
+      "reason": "Nova Vulgata, Genesis 22:14: “In monte Dominus videtur”."
+    },
+    {
+      "book": "GEN",
+      "where": "27:39",
+      "type": "nova-vulgata",
+      "find": "your dwelling will be of the fatness of the earth",
+      "replace": "your dwelling will be away from the fatness of the earth",
+      "reason": "Nova Vulgata, Genesis 27:39: “procul a pinguedine terrae erit habitatio tua”."
+    },
+    {
+      "book": "GEN",
+      "where": "27:39",
+      "type": "nova-vulgata",
+      "find": "and of the dew of the sky from above.",
+      "replace": "and away from the dew of the sky above.",
+      "reason": "Nova Vulgata, Genesis 27:39: “et procul a rore caeli desuper”."
+    },
+    {
+      "book": "GEN",
+      "where": "47:21",
+      "type": "nova-vulgata",
+      "find": "he moved them to the cities",
+      "replace": "he reduced them to servitude",
+      "reason": "Nova Vulgata, Genesis 47:21: “cunctos populos eius redegit ei in servitutem”; so also the Septuagint: “τὸν λαὸν κατεδουλώσατο αὐτῷ εἰς παῖδας”."
+    },
+    {
+      "book": "GEN",
+      "where": "49:26",
+      "type": "nova-vulgata",
+      "find": "the blessings of my ancestors",
+      "replace": "the blessings of the eternal mountains",
+      "reason": "Nova Vulgata, Genesis 49:26: “super benedictiones montium aeternorum”; so also the Septuagint: “ἐπ᾽ εὐλογίαις ὀρέων μονίμων”."
+    },
+    {
+      "book": "GEN",
+      "where": "49:26",
+      "type": "nova-vulgata",
+      "find": "above the boundaries of the ancient hills.",
+      "replace": "above the desire of the ancient hills.",
+      "reason": "Nova Vulgata, Genesis 49:26: “super benedictiones montium aeternorum, desiderium collium antiquorum” — the second phrase is governed by the same “super”."
+    },
+    {
+      "book": "GEN",
+      "where": "18:10",
+      "type": "nova-vulgata",
+      "find": "Sarah heard in the tent door, which was behind him.",
+      "replace": "When Sarah heard this, she laughed at the tent door, which was behind him.",
+      "reason": "Nova Vulgata, Genesis 18:10: “Quo audito, Sara risit ad ostium tabernaculi” — having heard it, Sarah laughed at the tent door."
+    },
+    {
+      "book": "JOS",
+      "where": "15:59",
+      "type": "nova-vulgata",
+      "find": "Maarath, Beth Anoth, and Eltekon; six cities with their villages.",
+      "insert": "Tekoa, Ephrathah (that is, Bethlehem), Peor, Etam, Kolan, Tatem, Shoresh, Kerem, Gallim, Bether, and Manahath—eleven cities with their villages.",
+      "reason": "Nova Vulgata, Joshua 15:59: “Thecue et Ephratha — haec est Bethlehem — et Phegor et Etam et Culon et Tatam et Sores et Carem et Gallim et Bether et Manahath: civitates undecim et villae earum”; the Septuagint likewise has the eleven-city district, though several name forms differ (its final name is “Μανοχώ”)."
+    },
+    {
+      "book": "JDG",
+      "where": "3:22",
+      "type": "nova-vulgata",
+      "find": "and it came out behind.",
+      "replace": "and immediately excrement from his bowels burst out through his private parts.",
+      "reason": "Nova Vulgata, Judges 3:22: “statimque per secreta naturae alvi stercora proruperunt”."
+    },
+    {
+      "book": "1SA",
+      "where": "2:33",
+      "type": "nova-vulgata",
+      "find": "The man of yours whom I don’t cut off from my altar will consume your eyes",
+      "replace": "Yet I will not utterly take away a man of yours from my altar, so that your eyes may fail",
+      "reason": "Nova Vulgata, 1 Samuel 2:33: “Verumtamen non auferam penitus virum ex te ab altari meo; sed ut deficiant oculi tui” (“sed ut” + subjunctive: purpose/result)."
+    },
+    {
+      "book": "1SA",
+      "where": "2:33",
+      "type": "nova-vulgata",
+      "find": "and grieve your heart.",
+      "replace": "and your soul may waste away.",
+      "reason": "Nova Vulgata, 1 Samuel 2:33: “et tabescat anima tua”."
+    },
+    {
+      "book": "1SA",
+      "where": "2:33",
+      "type": "nova-vulgata",
+      "find": "All the increase of your house will die in the flower of their age.",
+      "replace": "And a great part of your house will die when they come to manhood.",
+      "reason": "Nova Vulgata, 1 Samuel 2:33: “et pars magna domus tuae morietur, cum ad virilem aetatem venerit”."
+    },
+    {
+      "book": "1SA",
+      "where": "4:1",
+      "type": "nova-vulgata",
+      "find": "The word of Samuel came to all Israel.",
+      "insert": "In those days the Philistines gathered together for war.",
+      "reason": "Nova Vulgata, 1 Samuel 4:1: “Et factum est in diebus illis, convenerunt Philisthim in pugnam”."
+    },
+    {
+      "book": "1SA",
+      "where": "30:15",
+      "type": "nova-vulgata",
+      "find": "and I will bring you down to this troop.”",
+      "insert": "David swore to him.",
+      "reason": "Nova Vulgata, 1 Samuel 30:15: “Et iuravit ei David”."
+    },
+    {
+      "book": "2SA",
+      "where": "13:27",
+      "type": "nova-vulgata",
+      "find": "and he let Amnon and all the king’s sons go with him.",
+      "insert": "Absalom made a feast like a king’s feast.",
+      "reason": "Nova Vulgata, 2 Samuel 13:27: “Fecitque Absalom convivium quasi convivium regis”; so also the Septuagint: “καὶ ἐποίησεν Αβεσσαλωμ πότον κατὰ τὸν πότον τοῦ βασιλέως”."
+    },
+    {
+      "book": "2SA",
+      "where": "13:34",
+      "type": "nova-vulgata",
+      "find": "many people were coming by way of the hillside behind him.",
+      "insert": "The watchman came and told the king, “I see men by the way of Horonaim.”",
+      "reason": "Nova Vulgata, 2 Samuel 13:34: “et venit speculator et nuntiavit regi dicens: ‘Video homines per viam Oronaim’”; so also the Septuagint: “καὶ παρεγένετο ὁ σκοπὸς καὶ ἀπήγγειλεν τῷ βασιλεῖ”."
+    },
+    {
+      "book": "2SA",
+      "where": "24:14",
+      "type": "nova-vulgata",
+      "find": "Let me not fall into man’s hand.”",
+      "insert": "So David chose for himself the pestilence. It was the time of the wheat harvest.",
+      "reason": "Nova Vulgata, 2 Samuel 24:15 (opening; the insertion sits at the end of WEBC 24:14): “Et elegit sibi David pestilentiam; et erant dies messis tritici”."
+    },
+    {
+      "book": "1KI",
+      "where": "4:28",
+      "type": "nova-vulgata",
+      "find": "swift steeds",
+      "replace": "draft animals",
+      "reason": "Nova Vulgata, 1 Kings 5:8 (numbered differently there): “Hordeum quoque et paleas equorum et iumentorum”."
+    },
+    {
+      "book": "PSA",
+      "where": "145:17",
+      "type": "nova-vulgata",
+      "find": "gracious in all his works",
+      "replace": "holy in all his works",
+      "reason": "Nova Vulgata, Psalm 145(144):17: “Iustus Dominus in omnibus viis suis et sanctus in omnibus operibus suis”."
+    },
+    {
+      "book": "GEN",
+      "where": "21:9",
+      "type": "nova-vulgata",
+      "find": "mocking",
+      "replace": "playing with Isaac, Sarah’s son",
+      "reason": "Nova Vulgata, Genesis 21:9: “iocantem cum Isaac filio suo”; so also the Septuagint: “παίζοντα μετὰ Ισαακ τοῦ υἱοῦ αὐτῆς”."
+    },
+    {
+      "book": "GEN",
+      "where": "24:63",
+      "type": "nova-vulgata",
+      "find": "meditate",
+      "replace": "lament",
+      "reason": "Nova Vulgata, Genesis 24:63: “Et egressus est Isaac ad lamentandum in agro”."
+    },
+    {
+      "book": "GEN",
+      "where": "28:13",
+      "type": "nova-vulgata",
+      "find": "stood above it",
+      "replace": "was leaning upon it",
+      "reason": "Nova Vulgata, Genesis 28:13: “Dominum innixum scalae” (the Lord leaning upon the ladder); so also the Septuagint: “ἐπεστήρικτο ἐπ᾽ αὐτῆς”."
+    },
+    {
+      "book": "PSA",
+      "where": "2:12",
+      "type": "nova-vulgata",
+      "find": "Give sincere homage to the Son",
+      "replace": "Take hold of discipline",
+      "reason": "Nova Vulgata, Psalm 2:12: “Apprehendite disciplinam, ne quando irascatur”."
+    },
+    {
+      "book": "PSA",
+      "where": "4:1",
+      "type": "nova-vulgata",
+      "find": "Answer me when I call, God of my righteousness.",
+      "replace": "When I called, the God of my righteousness answered me.",
+      "reason": "Nova Vulgata, Psalm 4:2: “Cum invocarem, exaudivit me Deus iustitiae meae”."
+    },
+    {
+      "book": "PSA",
+      "where": "4:2",
+      "type": "nova-vulgata",
+      "find": "how long shall my glory be turned into dishonor",
+      "replace": "how long will you be heavy of heart",
+      "reason": "Nova Vulgata, Psalm 4:3: “Filii hominum, usquequo gravi corde?”."
+    },
+    {
+      "book": "PSA",
+      "where": "4:3",
+      "type": "nova-vulgata",
+      "find": "set apart for himself him who is godly",
+      "replace": "made wondrous his holy one",
+      "reason": "Nova Vulgata, Psalm 4:4: “mirificavit Dominus sanctum suum”."
+    },
+    {
+      "book": "PSA",
+      "where": "4:8",
+      "type": "nova-vulgata",
+      "find": "make me live in safety",
+      "replace": "have established me in hope",
+      "reason": "Nova Vulgata, Psalm 4:9: “quoniam tu, Domine, singulariter in spe constituisti me”."
+    },
+    {
+      "book": "PSA",
+      "where": "5:3",
+      "type": "nova-vulgata",
+      "find": "lay my requests before you",
+      "replace": "stand before you",
+      "reason": "Nova Vulgata, Psalm 5:4: “mane astabo tibi et exspectabo”."
+    },
+    {
+      "book": "PSA",
+      "where": "5:5",
+      "type": "nova-vulgata",
+      "find": "The arrogant",
+      "replace": "The unjust",
+      "reason": "Nova Vulgata, Psalm 5:6: “neque permanebunt iniusti ante oculos tuos”."
+    },
+    {
+      "book": "PSA",
+      "where": "5:9",
+      "type": "nova-vulgata",
+      "find": "destruction",
+      "replace": "a pit",
+      "reason": "Nova Vulgata, Psalm 5:10: “cor eorum fovea”."
+    },
+    {
+      "book": "PSA",
+      "where": "5:11",
+      "type": "nova-vulgata",
+      "find": "you defend them",
+      "replace": "you overshadow them",
+      "reason": "Nova Vulgata, Psalm 5:12: “Obumbrabis eis”."
+    },
+    {
+      "book": "PSA",
+      "where": "5:12",
+      "type": "nova-vulgata",
+      "find": "surround",
+      "replace": "crown",
+      "reason": "Nova Vulgata, Psalm 5:13: “quasi scuto, bona voluntate coronabis eum”."
+    },
+    {
+      "book": "PSA",
+      "where": "6:7",
+      "type": "nova-vulgata",
+      "find": "It grows old because of",
+      "replace": "I have grown old among",
+      "reason": "Nova Vulgata, Psalm 6:8: “inveteravi inter omnes inimicos meos”."
+    },
+    {
+      "book": "PSA",
+      "where": "7:1",
+      "type": "nova-vulgata",
+      "find": "take refuge",
+      "replace": "trust",
+      "reason": "Nova Vulgata, Psalm 7:2: “Domine Deus meus, in te speravi”."
+    },
+    {
+      "book": "PSA",
+      "where": "7:2",
+      "type": "nova-vulgata",
+      "find": "tear apart my soul",
+      "replace": "seize my soul",
+      "reason": "Nova Vulgata, Psalm 7:3: “ne quando rapiat ut leo animam meam discerpens”."
+    },
+    {
+      "book": "PSA",
+      "where": "7:4",
+      "type": "nova-vulgata",
+      "find": "him who without cause was my adversary",
+      "replace": "my adversary, sending him away empty",
+      "reason": "Nova Vulgata, Psalm 7:5: “et exspoliavi inimicum meum dimittens inanem”."
+    },
+    {
+      "book": "PSA",
+      "where": "7:14",
+      "type": "nova-vulgata",
+      "find": "mischief",
+      "replace": "sorrow",
+      "reason": "Nova Vulgata, Psalm 7:15: “concepit dolorem”."
+    },
+    {
+      "book": "PSA",
+      "where": "8:2",
+      "type": "nova-vulgata",
+      "find": "established strength",
+      "replace": "perfected praise",
+      "reason": "Nova Vulgata, Psalm 8:3: “Ex ore infantium et lactantium perfecisti laudem”."
+    },
+    {
+      "book": "PSA",
+      "where": "8:2",
+      "type": "nova-vulgata",
+      "find": "silence",
+      "replace": "destroy",
+      "reason": "Nova Vulgata, Psalm 8:3: “ut destruas inimicum et ultorem”."
+    },
+    {
+      "book": "PSA",
+      "where": "10:3",
+      "type": "nova-vulgata",
+      "find": "He blesses the greedy and condemns the LORD.",
+      "replace": "The greedy one blesses himself; the sinner despises the LORD.",
+      "reason": "Nova Vulgata, Psalm 10(9B):3-4: “et avarus sibi benedicit. Spernit Dominum peccator”."
+    },
+    {
+      "book": "PSA",
+      "where": "10:4",
+      "type": "nova-vulgata",
+      "find": "has no room in his thoughts for God.",
+      "replace": "thinks, “He will not seek; there is no God.”",
+      "reason": "Nova Vulgata, Psalm 10(9):4: “Non requiret; non est Deus”."
+    },
+    {
+      "book": "PSA",
+      "where": "10:7",
+      "type": "nova-vulgata",
+      "find": "oppression",
+      "replace": "guile",
+      "reason": "Nova Vulgata, Psalm 10(9):7: “os plenum est et fraudulentia et dolo”."
+    },
+    {
+      "book": "PSA",
+      "where": "10:8",
+      "type": "nova-vulgata",
+      "find": "helpless",
+      "replace": "poor",
+      "reason": "Nova Vulgata, Psalm 10(9):9: “Oculi eius in pauperem respiciunt”."
+    },
+    {
+      "book": "PSA",
+      "where": "10:14",
+      "type": "nova-vulgata",
+      "find": "the victim",
+      "replace": "the poor",
+      "reason": "Nova Vulgata, Psalm 10(9):14: “Tibi derelictus est pauper, orphano tu factus es adiutor”."
+    },
+    {
+      "book": "PSA",
+      "where": "10:17",
+      "type": "nova-vulgata",
+      "find": "humble",
+      "replace": "poor",
+      "reason": "Nova Vulgata, Psalm 10(9):17: “Desiderium pauperum exaudisti, Domine”."
+    },
+    {
+      "book": "PSA",
+      "where": "10:18",
+      "type": "nova-vulgata",
+      "find": "oppressed",
+      "replace": "lowly",
+      "reason": "Nova Vulgata, Psalm 10(9):18: “iudicare pupillo et humili”."
+    },
+    {
+      "book": "PSA",
+      "where": "11:1",
+      "type": "nova-vulgata",
+      "find": "take refuge",
+      "replace": "trust",
+      "reason": "Nova Vulgata, Psalm 11(10):1: “In Domino confido”."
+    },
+    {
+      "book": "PSA",
+      "where": "11:4",
+      "type": "nova-vulgata",
+      "find": "His eyes observe",
+      "replace": "His eyes look upon the poor",
+      "reason": "Nova Vulgata, Psalm 11(10):4: “Oculi eius in pauperem respiciunt”."
+    },
+    {
+      "book": "PSA",
+      "where": "11:5",
+      "type": "nova-vulgata",
+      "find": "but his soul hates the wicked and him who loves",
+      "replace": "but his soul hates him who loves",
+      "reason": "Nova Vulgata, Psalm 11(10):5: “Dominus interrogat iustum et impium; qui autem diligit iniquitatem, odit anima eius”."
+    },
+    {
+      "book": "PSA",
+      "where": "11:5",
+      "type": "nova-vulgata",
+      "find": "violence",
+      "replace": "iniquity",
+      "reason": "Nova Vulgata, Psalm 11(10):5: “qui autem diligit iniquitatem”."
+    },
+    {
+      "book": "PSA",
+      "where": "11:6",
+      "type": "nova-vulgata",
+      "find": "scorching wind",
+      "replace": "stormy wind",
+      "reason": "Nova Vulgata, Psalm 11(10):6: “et spiritus procellarum pars calicis eorum”."
+    },
+    {
+      "book": "PSA",
+      "where": "12:3",
+      "type": "nova-vulgata",
+      "find": "flattering",
+      "replace": "deceitful",
+      "reason": "Nova Vulgata, Psalm 12(11):4: “Disperdat Dominus universa labia dolosa”."
+    },
+    {
+      "book": "PSA",
+      "where": "12:5",
+      "type": "nova-vulgata",
+      "find": "the oppression of the weak",
+      "replace": "the misery of the weak",
+      "reason": "Nova Vulgata, Psalm 12(11):6: “Propter miseriam inopum et gemitum pauperum”."
+    },
+    {
+      "book": "PSA",
+      "where": "12:6",
+      "type": "nova-vulgata",
+      "find": "as silver refined in a clay furnace",
+      "replace": "as silver tried by fire, separated from the earth",
+      "reason": "Nova Vulgata, Psalm 12(11):7: “argentum igne examinatum, separatum a terra, purgatum septuplum”."
+    },
+    {
+      "book": "PSA",
+      "where": "12:7",
+      "type": "nova-vulgata",
+      "find": "You will keep them, LORD.",
+      "replace": "You will keep us, LORD.",
+      "reason": "Nova Vulgata, Psalm 12(11):8: “Tu, Domine, servabis nos”."
+    },
+    {
+      "book": "PSA",
+      "where": "14:7",
+      "type": "nova-vulgata",
+      "find": "restores the fortunes",
+      "replace": "brings back the captivity",
+      "reason": "Nova Vulgata, Psalm 14(13):7: “Cum converterit Dominus captivitatem plebis suae”."
+    },
+    {
+      "book": "PSA",
+      "where": "14:7",
+      "type": "nova-vulgata",
+      "find": "Oh that the salvation of Israel would come out of Zion!",
+      "replace": "Who will grant out of Zion the salvation of Israel?",
+      "reason": "Nova Vulgata, Psalm 14(13):7: “Quis dabit ex Sion salutare Israel?”."
+    },
+    {
+      "book": "PSA",
+      "where": "15:3",
+      "type": "nova-vulgata",
+      "find": "slander",
+      "replace": "act deceitfully",
+      "reason": "Nova Vulgata, Psalm 15(14):3: “qui non egit dolum in lingua sua”."
+    },
+    {
+      "book": "PSA",
+      "where": "16:5",
+      "type": "nova-vulgata",
+      "find": "The LORD assigned my portion and my cup.",
+      "replace": "The LORD is the portion of my inheritance and of my cup.",
+      "reason": "Nova Vulgata, Psalm 16(15):5: “Dominus pars hereditatis meae et calicis mei”."
+    },
+    {
+      "book": "PSA",
+      "where": "16:9",
+      "type": "nova-vulgata",
+      "find": "dwell in safety",
+      "replace": "rest in hope",
+      "reason": "Nova Vulgata, Psalm 16(15):9: “insuper et caro mea requiescet in spe”."
+    },
+    {
+      "book": "PSA",
+      "where": "17:3",
+      "type": "nova-vulgata",
+      "find": "You have tried me, and found nothing.",
+      "replace": "Try me by fire, and you will find no iniquity.",
+      "reason": "Nova Vulgata, Psalm 17(16):3: “igne me examina, et non invenies in me iniquitatem”."
+    },
+    {
+      "book": "PSA",
+      "where": "17:4",
+      "type": "nova-vulgata",
+      "find": "As for the deeds of men, by the word of your lips,",
+      "replace": "My mouth does not transgress as men do. By the word of your lips,",
+      "reason": "Nova Vulgata, Psalm 17(16):4: “Non transgreditur os meum ad opera hominum”."
+    },
+    {
+      "book": "PSA",
+      "where": "17:9",
+      "type": "nova-vulgata",
+      "find": "deadly",
+      "replace": "enraged",
+      "reason": "Nova Vulgata, Psalm 17(16):9: “Inimici mei in furore circumdederunt me”."
+    },
+    {
+      "book": "PSA",
+      "where": "17:14",
+      "type": "nova-vulgata",
+      "find": "whose portion is in this life",
+      "replace": "whose portion of life has failed",
+      "reason": "Nova Vulgata, Psalm 17(16):14: “a mortuis, quorum defecit portio vitae”."
+    },
+    {
+      "book": "PSA",
+      "where": "17:14",
+      "type": "nova-vulgata",
+      "find": "You fill the belly of your cherished ones.",
+      "replace": "May you fill their belly with what you have laid away.",
+      "reason": "Nova Vulgata, Psalm 17(16):14: “De reconditis tuis adimpleas ventrem eorum”."
+    },
+    {
+      "book": "PSA",
+      "where": "17:14",
+      "type": "nova-vulgata",
+      "find": "they store up wealth for their children.",
+      "replace": "may they leave what remains to their little ones.",
+      "reason": "Nova Vulgata, Psalm 17(16):14: “et dimittant reliquias parvulis suis”."
+    },
+    {
+      "book": "PSA",
+      "where": "18:2",
+      "type": "nova-vulgata",
+      "find": "rock",
+      "replace": "support",
+      "occurrence": 1,
+      "reason": "Nova Vulgata, Psalm 18(17):3: “Domine, firmamentum meum et refugium meum et liberator meus”."
+    },
+    {
+      "book": "PSA",
+      "where": "18:2",
+      "type": "nova-vulgata",
+      "find": "rock",
+      "replace": "helper",
+      "occurrence": 2,
+      "reason": "Nova Vulgata, Psalm 18(17):3: “Deus meus, adiutor meus, et sperabo in eum”."
+    },
+    {
+      "book": "PSA",
+      "where": "18:4",
+      "type": "nova-vulgata",
+      "find": "cords",
+      "replace": "waves",
+      "reason": "Nova Vulgata, Psalm 18(17):5: “Circumdederunt me fluctus mortis”."
+    },
+    {
+      "book": "PSA",
+      "where": "18:4",
+      "type": "nova-vulgata",
+      "find": "ungodliness",
+      "replace": "Belial",
+      "reason": "Nova Vulgata, Psalm 18(17):5: “et torrentes Belial conturbaverunt me”."
+    },
+    {
+      "book": "PSA",
+      "where": "18:15",
+      "type": "nova-vulgata",
+      "find": "blast of the breath of your nostrils",
+      "replace": "blast of your wrathful breath",
+      "reason": "Nova Vulgata, Psalm 18(17):16: “ab inspiratione spiritus irae tuae”."
+    },
+    {
+      "book": "PSA",
+      "where": "18:15",
+      "type": "nova-vulgata",
+      "find": "channels of waters",
+      "replace": "springs of waters",
+      "reason": "Nova Vulgata, Psalm 18(17):16: “Et apparuerunt fontes aquarum”."
+    },
+    {
+      "book": "PSA",
+      "where": "18:25",
+      "type": "nova-vulgata",
+      "find": "merciful",
+      "replace": "holy",
+      "occurrence": 1,
+      "reason": "Nova Vulgata, Psalm 18(17):26: “Cum sancto sanctus eris”."
+    },
+    {
+      "book": "PSA",
+      "where": "18:25",
+      "type": "nova-vulgata",
+      "find": "merciful",
+      "replace": "holy",
+      "occurrence": 2,
+      "reason": "Nova Vulgata, Psalm 18(17):26: “Cum sancto sanctus eris”."
+    },
+    {
+      "book": "PSA",
+      "where": "18:26",
+      "type": "nova-vulgata",
+      "find": "crooked",
+      "replace": "perverse",
+      "reason": "Nova Vulgata, Psalm 18(17):27: “et cum perverso callidus eris”."
+    },
+    {
+      "book": "PSA",
+      "where": "18:26",
+      "type": "nova-vulgata",
+      "find": "With the pure, you will show yourself pure.",
+      "replace": "With the elect, you will show yourself elect.",
+      "reason": "Nova Vulgata, Psalm 18(17):27: “et cum electo electus eris”."
+    },
+    {
+      "book": "PSA",
+      "where": "18:30",
+      "type": "nova-vulgata",
+      "find": "The LORD’s word is tried.",
+      "replace": "The LORD’s words are tried by fire.",
+      "reason": "Nova Vulgata, Psalm 18(17):31: “eloquia Domini igne examinata”."
+    },
+    {
+      "book": "PSA",
+      "where": "18:31",
+      "type": "nova-vulgata",
+      "find": "rock",
+      "replace": "fortress",
+      "reason": "Nova Vulgata, Psalm 18(17):32: “Aut quae munitio praeter Deum nostrum?”."
+    },
+    {
+      "book": "PSA",
+      "where": "18:35",
+      "type": "nova-vulgata",
+      "find": "gentleness",
+      "replace": "favorable hearing",
+      "reason": "Nova Vulgata, Psalm 18(17):36: “et exauditio tua magnificavit me”."
+    },
+    {
+      "book": "PSA",
+      "where": "18:38",
+      "type": "nova-vulgata",
+      "find": "I will strike them through, so that they will not be able to rise.",
+      "replace": "I crushed them, so that they were not able to rise.",
+      "reason": "Nova Vulgata, Psalm 18(17):39: “Confringebam illos, nec poterant stare”."
+    },
+    {
+      "book": "PSA",
+      "where": "18:42",
+      "type": "nova-vulgata",
+      "find": "cast them out",
+      "replace": "crushed them",
+      "reason": "Nova Vulgata, Psalm 18(17):43: “ut lutum platearum contrivi eos”."
+    },
+    {
+      "book": "PSA",
+      "where": "18:44",
+      "type": "nova-vulgata",
+      "find": "The foreigners shall submit themselves to me.",
+      "replace": "The foreigners flattered me.",
+      "reason": "Nova Vulgata, Psalm 18(17):45-46: “Filii alieni blanditi sunt mihi”."
+    },
+    {
+      "book": "PSA",
+      "where": "18:46",
+      "type": "nova-vulgata",
+      "find": "rock",
+      "replace": "helper",
+      "reason": "Nova Vulgata, Psalm 18(17):47: “Vivit Dominus, et benedictus Adiutor meus”."
+    },
+    {
+      "book": "PSA",
+      "where": "18:48",
+      "type": "nova-vulgata",
+      "find": "enemies",
+      "replace": "enraged enemies",
+      "reason": "Nova Vulgata, Psalm 18(17):48: “liberator meus de inimicis meis iracundis”."
+    },
+    {
+      "book": "PSA",
+      "where": "19:5",
+      "type": "nova-vulgata",
+      "find": "strong man",
+      "replace": "giant",
+      "reason": "Nova Vulgata, Psalm 19(18):6: “exsultavit ut gigas ad currendam viam”."
+    },
+    {
+      "book": "PSA",
+      "where": "19:10",
+      "type": "nova-vulgata",
+      "find": "than much fine gold",
+      "replace": "than many precious stones",
+      "reason": "Nova Vulgata, Psalm 19(18):11: “desiderabilia super aurum et lapidem pretiosum multum”."
+    },
+    {
+      "book": "PSA",
+      "where": "19:11",
+      "type": "nova-vulgata",
+      "find": "warned",
+      "replace": "instructed",
+      "reason": "Nova Vulgata, Psalm 19(18):12: “Etenim servus tuus eruditur in eis”."
+    },
+    {
+      "book": "PSA",
+      "where": "19:13",
+      "type": "nova-vulgata",
+      "find": "innocent",
+      "replace": "cleansed",
+      "reason": "Nova Vulgata, Psalm 19(18):14: “Tunc immaculatus ero et emundabor a delicto maximo”."
+    },
+    {
+      "book": "PSA",
+      "where": "19:14",
+      "type": "nova-vulgata",
+      "find": "rock",
+      "replace": "helper",
+      "reason": "Nova Vulgata, Psalm 19(18):15: “Domine, adiutor meus et redemptor meus”."
+    },
+    {
+      "book": "PSA",
+      "where": "20:3",
+      "type": "nova-vulgata",
+      "find": "accept your burned sacrifice",
+      "replace": "regard your burned sacrifice with favor",
+      "reason": "Nova Vulgata, Psalm 20(19):4: “et holocaustum tuum pingue habeat”."
+    },
+    {
+      "book": "PSA",
+      "where": "20:6",
+      "type": "nova-vulgata",
+      "find": "He will answer him from his holy heaven,",
+      "replace": "He has answered him from his holy heaven,",
+      "reason": "Nova Vulgata, Psalm 20(19):7: “exaudivit illum de caelo sancto suo”."
+    },
+    {
+      "book": "PSA",
+      "where": "20:7",
+      "type": "nova-vulgata",
+      "find": "but we trust in the name of the LORD our God.",
+      "replace": "but we have called upon the name of the LORD our God.",
+      "reason": "Nova Vulgata, Psalm 20(19):8: “nos autem nomen Domini Dei nostri invocavimus”."
+    },
+    {
+      "book": "PSA",
+      "where": "20:9",
+      "type": "nova-vulgata",
+      "find": "Let the King answer us when we call!",
+      "replace": "And answer us in the day we call on you!",
+      "reason": "Nova Vulgata, Psalm 20(19):10: “Domine, salvum fac regem, et exaudi nos in die, qua invocaverimus te”."
+    },
+    {
+      "book": "PSA",
+      "where": "22:9",
+      "type": "nova-vulgata",
+      "find": "You made me trust while at my mother’s breasts.",
+      "replace": "You were my hope while I was at my mother’s breasts.",
+      "reason": "Nova Vulgata, Psalm 22(21):10: “spes mea ad ubera matris meae”."
+    },
+    {
+      "book": "PSA",
+      "where": "22:15",
+      "type": "nova-vulgata",
+      "find": "strength",
+      "replace": "palate",
+      "reason": "Nova Vulgata, Psalm 22(21):16: “Aruit tamquam testa palatum meum”."
+    },
+    {
+      "book": "PSA",
+      "where": "22:21",
+      "type": "nova-vulgata",
+      "find": "Yes, you have rescued me from the horns of the wild oxen",
+      "replace": "Save my afflicted life from the horns of the unicorns",
+      "reason": "Nova Vulgata, Psalm 22(21):22: “Salva me ex ore leonis et a cornibus unicornium humilitatem meam”."
+    },
+    {
+      "book": "PSA",
+      "where": "22:24",
+      "type": "nova-vulgata",
+      "find": "afflicted",
+      "replace": "poor",
+      "reason": "Nova Vulgata, Psalm 22(21):25: “non sprevit neque despexit afflictionem pauperis”."
+    },
+    {
+      "book": "PSA",
+      "where": "22:26",
+      "type": "nova-vulgata",
+      "find": "humble",
+      "replace": "poor",
+      "reason": "Nova Vulgata, Psalm 22(21):27: “Edent pauperes et saturabuntur”."
+    },
+    {
+      "book": "PSA",
+      "where": "22:29",
+      "type": "nova-vulgata",
+      "find": "All the rich ones of the earth shall eat and worship.",
+      "replace": "All who sleep in the earth shall worship him alone.",
+      "reason": "Nova Vulgata, Psalm 22(21):30: “Ipsum solum adorabunt omnes, qui dormiunt in terra”."
+    },
+    {
+      "book": "PSA",
+      "where": "22:29",
+      "type": "nova-vulgata",
+      "find": "even he who can’t keep his soul alive",
+      "replace": "but my soul shall live for him",
+      "reason": "Nova Vulgata, Psalm 22(21):30: “Anima autem mea illi vivet”."
+    },
+    {
+      "book": "PSA",
+      "where": "25:18",
+      "type": "nova-vulgata",
+      "find": "affliction",
+      "replace": "lowliness",
+      "reason": "Nova Vulgata, Psalm 25(24):18: “Vide humilitatem meam et laborem meum”."
+    },
+    {
+      "book": "PSA",
+      "where": "26:4",
+      "type": "nova-vulgata",
+      "find": "hypocrites",
+      "replace": "those who act in secret",
+      "reason": "Nova Vulgata, Psalm 26(25):4: “et cum occulte agentibus non introibo”."
+    },
+    {
+      "book": "PSA",
+      "where": "26:4",
+      "type": "nova-vulgata",
+      "find": "deceitful men",
+      "replace": "worthless men",
+      "reason": "Nova Vulgata, Psalm 26(25):4: “Non sedi cum viris vanitatis”."
+    },
+    {
+      "book": "PSA",
+      "where": "27:4",
+      "type": "nova-vulgata",
+      "find": "beauty",
+      "replace": "delight",
+      "reason": "Nova Vulgata, Psalm 27(26):4: “ut videam voluptatem Domini”."
+    },
+    {
+      "book": "PSA",
+      "where": "27:4",
+      "type": "nova-vulgata",
+      "find": "inquire in his temple",
+      "replace": "visit his temple",
+      "reason": "Nova Vulgata, Psalm 27(26):4: “et visitem templum eius”."
+    },
+    {
+      "book": "PSA",
+      "where": "27:6",
+      "type": "nova-vulgata",
+      "find": "I will sing praises to the LORD",
+      "replace": "I will say a psalm to the LORD",
+      "reason": "Nova Vulgata, Psalm 27(26):6: “cantabo et psalmum dicam Domino”."
+    },
+    {
+      "book": "PSA",
+      "where": "27:14",
+      "type": "nova-vulgata",
+      "find": "strong",
+      "replace": "brave",
+      "reason": "Nova Vulgata, Psalm 27(26):14: “viriliter age, et confortetur cor tuum”."
+    },
+    {
+      "book": "PSA",
+      "where": "27:14",
+      "type": "nova-vulgata",
+      "find": "take courage",
+      "replace": "be strengthened",
+      "reason": "Nova Vulgata, Psalm 27(26):14: “et confortetur cor tuum”."
+    },
+    {
+      "book": "PSA",
+      "where": "28:1",
+      "type": "nova-vulgata",
+      "find": "rock",
+      "replace": "God",
+      "reason": "Nova Vulgata, Psalm 28(27):1: “Deus meus, ne sileas a me”."
+    },
+    {
+      "book": "PSA",
+      "where": "28:1",
+      "type": "nova-vulgata",
+      "find": "deaf",
+      "replace": "silent",
+      "reason": "Nova Vulgata, Psalm 28(27):1: “ne sileas a me”."
+    },
+    {
+      "book": "PSA",
+      "where": "28:7",
+      "type": "nova-vulgata",
+      "find": "strength",
+      "replace": "helper",
+      "reason": "Nova Vulgata, Psalm 28(27):7: “Dominus adiutor meus et protector meus”."
+    },
+    {
+      "book": "PSA",
+      "where": "29:6",
+      "type": "nova-vulgata",
+      "find": "a young, wild ox",
+      "replace": "the son of unicorns",
+      "reason": "Nova Vulgata, Psalm 29(28):6: “quemadmodum filium unicornium”."
+    },
+    {
+      "book": "PSA",
+      "where": "29:7",
+      "type": "nova-vulgata",
+      "find": "strikes with",
+      "replace": "cuts through",
+      "reason": "Nova Vulgata, Psalm 29(28):7: “Vox Domini intercidentis flammam ignis”."
+    },
+    {
+      "book": "PSA",
+      "where": "30:7",
+      "type": "nova-vulgata",
+      "find": "made my mountain stand strong",
+      "replace": "granted strength to my splendor",
+      "reason": "Nova Vulgata, Psalm 30(29):8: “in voluntate tua praestitisti decori meo virtutem”."
+    },
+    {
+      "book": "PSA",
+      "where": "31:3",
+      "type": "nova-vulgata",
+      "find": "rock and my fortress",
+      "replace": "strength and my refuge",
+      "reason": "Nova Vulgata, Psalm 31(30):4: “Quoniam fortitudo mea et refugium meum es tu”."
+    },
+    {
+      "book": "PSA",
+      "where": "31:3",
+      "type": "nova-vulgata",
+      "find": "therefore for your name’s sake lead me and guide me.",
+      "replace": "therefore for your name’s sake you will lead me and pasture me.",
+      "reason": "Nova Vulgata, Psalm 31(30):4: “propter nomen tuum deduces me et pasces me”."
+    },
+    {
+      "book": "PSA",
+      "where": "31:4",
+      "type": "nova-vulgata",
+      "find": "my stronghold",
+      "replace": "my strength",
+      "reason": "Nova Vulgata, Psalm 31(30):5: “quoniam tu es fortitudo mea”."
+    },
+    {
+      "book": "PSA",
+      "where": "31:7",
+      "type": "nova-vulgata",
+      "find": "affliction",
+      "replace": "humiliation",
+      "reason": "Nova Vulgata, Psalm 31(30):8: “quoniam respexisti humilitatem meam”."
+    },
+    {
+      "book": "PSA",
+      "where": "31:11",
+      "type": "nova-vulgata",
+      "find": "on the street",
+      "replace": "outdoors",
+      "reason": "Nova Vulgata, Psalm 31(30):12: “qui videbant me foras, fugiebant a me”."
+    },
+    {
+      "book": "PSA",
+      "where": "31:11",
+      "type": "nova-vulgata",
+      "find": "Because of all my adversaries",
+      "replace": "Among all my adversaries",
+      "reason": "Nova Vulgata, Psalm 31(30):12: “Apud omnes inimicos meos factus sum opprobrium”."
+    },
+    {
+      "book": "PSA",
+      "where": "31:13",
+      "type": "nova-vulgata",
+      "find": "conspire",
+      "replace": "gather",
+      "reason": "Nova Vulgata, Psalm 31(30):14: “in eo dum convenirent simul adversum me”."
+    },
+    {
+      "book": "PSA",
+      "where": "31:20",
+      "type": "nova-vulgata",
+      "find": "the plotting of man",
+      "replace": "the turmoil of man",
+      "reason": "Nova Vulgata, Psalm 31(30):21: “a conturbatione hominum”."
+    },
+    {
+      "book": "PSA",
+      "where": "31:20",
+      "type": "nova-vulgata",
+      "find": "a dwelling",
+      "replace": "a tent",
+      "reason": "Nova Vulgata, Psalm 31(30):21: “proteges eos in tabernaculo a contradictione linguarum”."
+    },
+    {
+      "book": "PSA",
+      "where": "32:8",
+      "type": "nova-vulgata",
+      "find": "counsel you with",
+      "replace": "fix",
+      "reason": "Nova Vulgata, Psalm 32(31):8: “firmabo super te oculos meos”."
+    },
+    {
+      "book": "PSA",
+      "where": "32:11",
+      "type": "nova-vulgata",
+      "find": "Shout for joy",
+      "replace": "Boast",
+      "reason": "Nova Vulgata, Psalm 32(31):11: “et gloriamini, omnes recti corde”."
+    },
+    {
+      "book": "PSA",
+      "where": "33:7",
+      "type": "nova-vulgata",
+      "find": "a heap",
+      "replace": "in a wineskin",
+      "reason": "Nova Vulgata, Psalm 33(32):7: “Congregans sicut in utre aquas maris”."
+    },
+    {
+      "book": "PSA",
+      "where": "33:9",
+      "type": "nova-vulgata",
+      "find": "He commanded, and it stood firm.",
+      "replace": "He commanded, and all things were created.",
+      "reason": "Nova Vulgata, Psalm 33(32):9: “ipse mandavit, et creata sunt”."
+    },
+    {
+      "book": "PSA",
+      "where": "33:15",
+      "type": "nova-vulgata",
+      "find": "considers",
+      "replace": "understands",
+      "reason": "Nova Vulgata, Psalm 33(32):15: “qui intellegit omnia opera eorum”."
+    },
+    {
+      "book": "PSA",
+      "where": "33:16",
+      "type": "nova-vulgata",
+      "find": "the multitude of an army",
+      "replace": "great might",
+      "reason": "Nova Vulgata, Psalm 33(32):16: “Non salvatur rex per multam virtutem”."
+    },
+    {
+      "book": "PSA",
+      "where": "34:10",
+      "type": "nova-vulgata",
+      "find": "young lions",
+      "replace": "rich",
+      "reason": "Nova Vulgata, Psalm 34(33):11: “Divites eguerunt et esurierunt”."
+    },
+    {
+      "book": "PSA",
+      "where": "35:1",
+      "type": "nova-vulgata",
+      "find": "Contend, LORD, with those who contend with me.",
+      "replace": "Judge, LORD, those who judge me.",
+      "reason": "Nova Vulgata, Psalm 35(34):1: “Iudica, Domine, iudicantes me”."
+    },
+    {
+      "book": "PSA",
+      "where": "35:4",
+      "type": "nova-vulgata",
+      "find": "brought to dishonor",
+      "replace": "put to shame",
+      "reason": "Nova Vulgata, Psalm 35(34):4: “Confundantur et revereantur quaerentes animam meam”."
+    },
+    {
+      "book": "PSA",
+      "where": "35:4",
+      "type": "nova-vulgata",
+      "find": "disappointed",
+      "replace": "confounded",
+      "reason": "Nova Vulgata, Psalm 35(34):4: “Confundantur et revereantur quaerentes animam meam”."
+    },
+    {
+      "book": "PSA",
+      "where": "35:10",
+      "type": "nova-vulgata",
+      "find": "poor",
+      "replace": "helpless",
+      "occurrence": 1,
+      "reason": "Nova Vulgata, Psalm 35(34):10: “Eripiens inopem de manu fortiorum eius”."
+    },
+    {
+      "book": "PSA",
+      "where": "35:13",
+      "type": "nova-vulgata",
+      "find": "afflicted",
+      "replace": "humbled",
+      "reason": "Nova Vulgata, Psalm 35(34):13: “humiliabam in ieiunio animam meam”."
+    },
+    {
+      "book": "PSA",
+      "where": "35:16",
+      "type": "nova-vulgata",
+      "find": "Like the profane mockers in feasts,",
+      "replace": "They tore at me and did not desist; they tested me; they mocked me with scorn;",
+      "reason": "Nova Vulgata, Psalm 35(34):16: “Diripuerunt et non desistebant; tentaverunt me, subsannaverunt me subsannatione”."
+    },
+    {
+      "book": "PSA",
+      "where": "35:19",
+      "type": "nova-vulgata",
+      "find": "my enemies wrongfully",
+      "replace": "my lying enemies",
+      "reason": "Nova Vulgata, Psalm 35(34):19: “Non supergaudeant mihi inimici mei mendaces”."
+    },
+    {
+      "book": "PSA",
+      "where": "35:26",
+      "type": "nova-vulgata",
+      "find": "disappointed",
+      "replace": "ashamed",
+      "reason": "Nova Vulgata, Psalm 35(34):26: “Erubescant et revereantur simul, qui gratulantur malis meis”."
+    },
+    {
+      "book": "PSA",
+      "where": "35:26",
+      "type": "nova-vulgata",
+      "find": "magnify themselves",
+      "replace": "speak great things",
+      "reason": "Nova Vulgata, Psalm 35(34):26: “qui magna loquuntur super me”."
+    },
+    {
+      "book": "PSA",
+      "where": "36:1",
+      "type": "nova-vulgata",
+      "find": "A revelation is within my heart about the disobedience of the wicked:",
+      "replace": "Sin whispers to the wicked within his heart:",
+      "reason": "Nova Vulgata, Psalm 36(35):2: “Susurrat iniquitas ad impium in medio cordis eius”."
+    },
+    {
+      "book": "PSA",
+      "where": "36:3",
+      "type": "nova-vulgata",
+      "find": "be wise and to do good",
+      "replace": "understand in order to do good",
+      "reason": "Nova Vulgata, Psalm 36(35):4: “desiit intellegere, ut bene ageret”."
+    },
+    {
+      "book": "PSA",
+      "where": "36:8",
+      "type": "nova-vulgata",
+      "find": "river",
+      "replace": "torrent",
+      "reason": "Nova Vulgata, Psalm 36(35):9: “et torrente voluptatis tuae potabis eos”."
+    },
+    {
+      "book": "PSA",
+      "where": "36:8",
+      "type": "nova-vulgata",
+      "find": "abundantly satisfied with",
+      "replace": "intoxicated by",
+      "reason": "Nova Vulgata, Psalm 36(35):9: “inebriabuntur ab ubertate domus tuae”."
+    },
+    {
+      "book": "PSA",
+      "where": "36:11",
+      "type": "nova-vulgata",
+      "find": "drive me away",
+      "replace": "move me",
+      "reason": "Nova Vulgata, Psalm 36(35):12: “et manus peccatoris non moveat me”."
+    },
+    {
+      "book": "PSA",
+      "where": "36:12",
+      "type": "nova-vulgata",
+      "find": "thrust down",
+      "replace": "cast out",
+      "reason": "Nova Vulgata, Psalm 36(35):13: “expulsi sunt nec potuerunt stare”."
+    },
+    {
+      "book": "PSA",
+      "where": "37:1",
+      "type": "nova-vulgata",
+      "find": "fret because of",
+      "replace": "be jealous of",
+      "reason": "Nova Vulgata, Psalm 37(36):1: “Noli aemulari in malignantibus”."
+    },
+    {
+      "book": "PSA",
+      "where": "37:4",
+      "type": "nova-vulgata",
+      "find": "desires",
+      "replace": "requests",
+      "reason": "Nova Vulgata, Psalm 37(36):4: “et dabit tibi petitiones cordis tui”."
+    },
+    {
+      "book": "PSA",
+      "where": "37:7",
+      "type": "nova-vulgata",
+      "find": "Don’t fret",
+      "replace": "Don’t be envious",
+      "reason": "Nova Vulgata, Psalm 37(36):7: “noli aemulari in eo, qui prosperatur in via sua”."
+    },
+    {
+      "book": "PSA",
+      "where": "37:7",
+      "type": "nova-vulgata",
+      "find": "makes wicked plots happen",
+      "replace": "devises plots",
+      "reason": "Nova Vulgata, Psalm 37(36):7: “in homine, qui molitur insidias”."
+    },
+    {
+      "book": "PSA",
+      "where": "37:8",
+      "type": "nova-vulgata",
+      "find": "Don’t fret",
+      "replace": "Don’t be envious",
+      "reason": "Nova Vulgata, Psalm 37(36):8: “noli aemulari, quod vertit ad malum”."
+    },
+    {
+      "book": "PSA",
+      "where": "37:9",
+      "type": "nova-vulgata",
+      "find": "cut off",
+      "replace": "destroyed",
+      "reason": "Nova Vulgata, Psalm 37(36):9: “quoniam qui malignantur, exterminabuntur”."
+    },
+    {
+      "book": "PSA",
+      "where": "37:10",
+      "type": "nova-vulgata",
+      "find": "he isn’t there",
+      "replace": "you will not find it",
+      "reason": "Nova Vulgata, Psalm 37(36):10: “et quaeres locum eius et non invenies”."
+    },
+    {
+      "book": "PSA",
+      "where": "37:26",
+      "type": "nova-vulgata",
+      "find": "deals graciously",
+      "replace": "is merciful",
+      "reason": "Nova Vulgata, Psalm 37(36):26: “Tota die miseretur et commodat”."
+    },
+    {
+      "book": "PSA",
+      "where": "37:35",
+      "type": "nova-vulgata",
+      "find": "spreading himself like a green tree in its native soil",
+      "replace": "exalted and lifted up like a flourishing cedar",
+      "reason": "Nova Vulgata, Psalm 37(36):35: “Vidi impium superexaltatum et elevatum sicut cedrum virentem”."
+    },
+    {
+      "book": "PSA",
+      "where": "37:39",
+      "type": "nova-vulgata",
+      "find": "stronghold",
+      "replace": "protector",
+      "reason": "Nova Vulgata, Psalm 37(36):39: “et protector eorum in tempore tribulationis”."
+    },
+    {
+      "book": "PSA",
+      "where": "38:3",
+      "type": "nova-vulgata",
+      "find": "any health in my bones",
+      "replace": "any peace in my bones",
+      "reason": "Nova Vulgata, Psalm 38(37):4: “non est pax ossibus meis a facie peccatorum meorum”."
+    },
+    {
+      "book": "PSA",
+      "where": "38:7",
+      "type": "nova-vulgata",
+      "find": "waist is filled",
+      "replace": "loins are filled",
+      "reason": "Nova Vulgata, Psalm 38(37):8: “Quoniam lumbi mei impleti sunt ardoribus”."
+    },
+    {
+      "book": "PSA",
+      "where": "38:8",
+      "type": "nova-vulgata",
+      "find": "I have groaned",
+      "replace": "I have roared",
+      "reason": "Nova Vulgata, Psalm 38(37):9: “rugiebam a gemitu cordis mei”."
+    },
+    {
+      "book": "PSA",
+      "where": "38:8",
+      "type": "nova-vulgata",
+      "find": "faint",
+      "replace": "afflicted",
+      "reason": "Nova Vulgata, Psalm 38(37):9: “Afflictus sum et humiliatus sum nimis”."
+    },
+    {
+      "book": "PSA",
+      "where": "38:8",
+      "type": "nova-vulgata",
+      "find": "severely bruised",
+      "replace": "humbled exceedingly",
+      "reason": "Nova Vulgata, Psalm 38(37):9: “Afflictus sum et humiliatus sum nimis”."
+    },
+    {
+      "book": "PSA",
+      "where": "38:8",
+      "type": "nova-vulgata",
+      "find": "the anguish of my heart",
+      "replace": "the groaning of my heart",
+      "reason": "Nova Vulgata, Psalm 38(37):9: “rugiebam a gemitu cordis mei”."
+    },
+    {
+      "book": "PSA",
+      "where": "38:12",
+      "type": "nova-vulgata",
+      "find": "mischievous things",
+      "replace": "treacherous things",
+      "reason": "Nova Vulgata, Psalm 38(37):13: “locuti sunt insidias”."
+    },
+    {
+      "book": "PSA",
+      "where": "38:18",
+      "type": "nova-vulgata",
+      "find": "I will be sorry for my sin.",
+      "replace": "I am anxious about my sin.",
+      "reason": "Nova Vulgata, Psalm 38(37):19: “et sollicitus sum de peccato meo”."
+    },
+    {
+      "book": "PSA",
+      "where": "39:5",
+      "type": "nova-vulgata",
+      "find": "as a breath",
+      "replace": "as total vanity",
+      "reason": "Nova Vulgata, Psalm 39(38):6: “Etenim universa vanitas omnis homo constitutus est”."
+    },
+    {
+      "book": "PSA",
+      "where": "39:6",
+      "type": "nova-vulgata",
+      "find": "walks like a shadow",
+      "replace": "passes by as an image",
+      "reason": "Nova Vulgata, Psalm 39(38):7: “Etenim ut imago pertransit homo”."
+    },
+    {
+      "book": "PSA",
+      "where": "39:11",
+      "type": "nova-vulgata",
+      "find": "but a breath",
+      "replace": "vanity",
+      "reason": "Nova Vulgata, Psalm 39(38):12: “Etenim vanitas omnis homo”."
+    },
+    {
+      "book": "PSA",
+      "where": "39:12",
+      "type": "nova-vulgata",
+      "find": "be silent at",
+      "replace": "be deaf to",
+      "reason": "Nova Vulgata, Psalm 39(38):13: “Ad lacrimas meas ne obsurdescas”."
+    },
+    {
+      "book": "PSA",
+      "where": "39:13",
+      "type": "nova-vulgata",
+      "find": "spare me",
+      "replace": "turn away from me",
+      "reason": "Nova Vulgata, Psalm 39(38):14: “Avertere a me, ut refrigerer”."
+    },
+    {
+      "book": "PSA",
+      "where": "40:2",
+      "type": "nova-vulgata",
+      "find": "a horrible pit",
+      "replace": "a pit of misery",
+      "reason": "Nova Vulgata, Psalm 40(39):3: “et eduxit me de lacu miseriae”."
+    },
+    {
+      "book": "PSA",
+      "where": "40:8",
+      "type": "nova-vulgata",
+      "find": "I delight to do",
+      "replace": "I wish to do",
+      "reason": "Nova Vulgata, Psalm 40(39):9: “Facere voluntatem tuam, Deus meus, volui”."
+    },
+    {
+      "book": "PSA",
+      "where": "40:8",
+      "type": "nova-vulgata",
+      "find": "heart",
+      "replace": "inner parts",
+      "reason": "Nova Vulgata, Psalm 40(39):9: “et lex tua in praecordiis meis”."
+    },
+    {
+      "book": "PSA",
+      "where": "42:4",
+      "type": "nova-vulgata",
+      "find": "with the crowd, and led them to God’s house",
+      "replace": "to the place of the wonderful tabernacle, to God’s house",
+      "reason": "Nova Vulgata, Psalm 42(41):5: “quoniam transibam in locum tabernaculi admirabilis usque ad domum Dei”."
+    },
+    {
+      "book": "PSA",
+      "where": "42:7",
+      "type": "nova-vulgata",
+      "find": "All your waves",
+      "replace": "All your whirlpools",
+      "reason": "Nova Vulgata, Psalm 42(41):8: “omnes gurgites tui et fluctus tui super me transierunt”."
+    },
+    {
+      "book": "PSA",
+      "where": "42:9",
+      "type": "nova-vulgata",
+      "find": "rock",
+      "replace": "protector",
+      "reason": "Nova Vulgata, Psalm 42(41):10: “Susceptor meus es”."
+    },
+    {
+      "book": "PSA",
+      "where": "42:10",
+      "type": "nova-vulgata",
+      "find": "As with a sword in my bones",
+      "replace": "As my bones are broken",
+      "reason": "Nova Vulgata, Psalm 42(41):11: “Dum confringuntur ossa mea, exprobraverunt mihi”."
+    },
+    {
+      "book": "PSA",
+      "where": "44:24",
+      "type": "nova-vulgata",
+      "find": "affliction",
+      "replace": "poverty",
+      "reason": "Nova Vulgata, Psalm 44(43):25: “oblivisceris inopiae nostrae et tribulationis nostrae”."
+    },
+    {
+      "book": "PSA",
+      "where": "45:1",
+      "type": "nova-vulgata",
+      "find": "a noble theme",
+      "replace": "a good word",
+      "reason": "Nova Vulgata, Psalm 45(44):2: “Eructavit cor meum verbum bonum”."
+    },
+    {
+      "book": "PSA",
+      "where": "45:1",
+      "type": "nova-vulgata",
+      "find": "skillful writer",
+      "replace": "swift-writing scribe",
+      "reason": "Nova Vulgata, Psalm 45(44):2: “Lingua mea calamus scribae velociter scribentis”."
+    },
+    {
+      "book": "PSA",
+      "where": "46:8",
+      "type": "nova-vulgata",
+      "find": "desolations",
+      "replace": "wonders",
+      "reason": "Nova Vulgata, Psalm 46(45):9: “Venite et videte opera Domini, quae posuit prodigia super terram”."
+    },
+    {
+      "book": "PSA",
+      "where": "46:9",
+      "type": "nova-vulgata",
+      "find": "chariots",
+      "replace": "shields",
+      "reason": "Nova Vulgata, Psalm 46(45):10: “et scuta comburet igne”."
+    },
+    {
+      "book": "PSA",
+      "where": "47:9",
+      "type": "nova-vulgata",
+      "find": "the people of the God of Abraham",
+      "replace": "with the people of the God of Abraham",
+      "reason": "Nova Vulgata, Psalm 47(46):10: “Principes populorum congregati sunt cum populo Dei Abraham”."
+    },
+    {
+      "book": "PSA",
+      "where": "49:6",
+      "type": "nova-vulgata",
+      "find": "wealth",
+      "replace": "strength",
+      "reason": "Nova Vulgata, Psalm 49(48):7: “Qui confidunt in virtute sua”."
+    },
+    {
+      "book": "PSA",
+      "where": "49:14",
+      "type": "nova-vulgata",
+      "find": "be their shepherd",
+      "replace": "feed on them",
+      "reason": "Nova Vulgata, Psalm 49(48):15: “mors depascet eos”."
+    },
+    {
+      "book": "PSA",
+      "where": "50:11",
+      "type": "nova-vulgata",
+      "find": "mountains",
+      "replace": "sky",
+      "reason": "Nova Vulgata, Psalm 50(49):11: “Cognovi omnia volatilia caeli”."
+    },
+    {
+      "book": "PSA",
+      "where": "50:18",
+      "type": "nova-vulgata",
+      "find": "consented with him",
+      "replace": "ran with him",
+      "reason": "Nova Vulgata, Psalm 50(49):18: “Si videbas furem, currebas cum eo”."
+    },
+    {
+      "book": "PSA",
+      "where": "51:6",
+      "type": "nova-vulgata",
+      "find": "desire",
+      "replace": "have loved",
+      "reason": "Nova Vulgata, Psalm 51(50):8: “Ecce enim veritatem in corde dilexisti”."
+    },
+    {
+      "book": "PSA",
+      "where": "51:6",
+      "type": "nova-vulgata",
+      "find": "the inmost place",
+      "replace": "the hidden place",
+      "reason": "Nova Vulgata, Psalm 51(50):8: “et in occulto sapientiam manifestasti mihi”."
+    },
+    {
+      "book": "PSA",
+      "where": "51:10",
+      "type": "nova-vulgata",
+      "find": "within me",
+      "replace": "within my innermost being",
+      "reason": "Nova Vulgata, Psalm 51(50):12: “et spiritum firmum innova in visceribus meis”."
+    },
+    {
+      "book": "PSA",
+      "where": "52:1",
+      "type": "nova-vulgata",
+      "find": "God’s loving kindness endures continually",
+      "replace": "All day you have devised plots",
+      "reason": "Nova Vulgata, Psalm 52(51):4: “Tota die insidias cogitasti”."
+    },
+    {
+      "book": "PSA",
+      "where": "53:5",
+      "type": "nova-vulgata",
+      "find": "You have put them to shame",
+      "replace": "They were put to shame",
+      "reason": "Nova Vulgata, Psalm 53(52):6: “confusi sunt, quoniam Deus sprevit eos”."
+    },
+    {
+      "book": "PSA",
+      "where": "54:3",
+      "type": "nova-vulgata",
+      "find": "Violent men",
+      "replace": "The mighty",
+      "reason": "Nova Vulgata, Psalm 54(53):5: “et fortes quaesierunt animam meam”."
+    },
+    {
+      "book": "PSA",
+      "where": "55:2",
+      "type": "nova-vulgata",
+      "find": "complaint",
+      "replace": "meditation",
+      "reason": "Nova Vulgata, Psalm 55(54):3: “Excussus sum in meditatione mea”."
+    },
+    {
+      "book": "PSA",
+      "where": "55:2",
+      "type": "nova-vulgata",
+      "find": "moan",
+      "replace": "am disturbed",
+      "reason": "Nova Vulgata, Psalm 55(54):3: “et conturbatus sum”."
+    },
+    {
+      "book": "PSA",
+      "where": "55:3",
+      "type": "nova-vulgata",
+      "find": "suffering",
+      "replace": "iniquity",
+      "reason": "Nova Vulgata, Psalm 55(54):4: “Quoniam devolverunt in me iniquitatem”."
+    },
+    {
+      "book": "PSA",
+      "where": "55:6",
+      "type": "nova-vulgata",
+      "find": "Oh that I had wings like a dove!",
+      "replace": "Oh, who will give me wings like a dove?",
+      "reason": "Nova Vulgata, Psalm 55(54):7: “Quis dabit mihi pennas sicut columbae”."
+    },
+    {
+      "book": "PSA",
+      "where": "55:8",
+      "type": "nova-vulgata",
+      "find": "I would hurry to a shelter",
+      "replace": "I will wait for him who saves me",
+      "reason": "Nova Vulgata, Psalm 55(54):9: “Exspectabo eum, qui salvum me faciat a spiritu procellae et tempestate”."
+    },
+    {
+      "book": "PSA",
+      "where": "55:17",
+      "type": "nova-vulgata",
+      "find": "cry out in distress",
+      "replace": "ponder and moan",
+      "reason": "Nova Vulgata, Psalm 55(54):18: “meditabor et ingemiscam”."
+    },
+    {
+      "book": "PSA",
+      "where": "56:2",
+      "type": "nova-vulgata",
+      "find": "proudly against me",
+      "replace": "against me, O Most High",
+      "reason": "Nova Vulgata, Psalm 56(55):3: “quoniam multi pugnant adversum me, Altissime”."
+    },
+    {
+      "book": "PSA",
+      "where": "56:7",
+      "type": "nova-vulgata",
+      "find": "Shall they escape by iniquity?",
+      "replace": "Repay them for their iniquity.",
+      "reason": "Nova Vulgata, Psalm 56(55):8: “ita pro iniquitate retribue illis”."
+    },
+    {
+      "book": "PSA",
+      "where": "57:1",
+      "type": "nova-vulgata",
+      "find": "disaster has passed",
+      "replace": "the plots have passed",
+      "reason": "Nova Vulgata, Psalm 57(56):2: “donec transeant insidiae”."
+    },
+    {
+      "book": "PSA",
+      "where": "57:2",
+      "type": "nova-vulgata",
+      "find": "accomplishes my requests for me",
+      "replace": "has done good to me",
+      "reason": "Nova Vulgata, Psalm 57(56):3: “Deum, qui benefecit mihi”."
+    },
+    {
+      "book": "PSA",
+      "where": "57:4",
+      "type": "nova-vulgata",
+      "find": "lions",
+      "replace": "lion cubs",
+      "reason": "Nova Vulgata, Psalm 57(56):5: “in medio catulorum leonum”."
+    },
+    {
+      "book": "PSA",
+      "where": "57:4",
+      "type": "nova-vulgata",
+      "find": "who are set on fire",
+      "replace": "who devour",
+      "reason": "Nova Vulgata, Psalm 57(56):5: “catulorum leonum devorantium filios hominum”."
+    },
+    {
+      "book": "PSA",
+      "where": "57:9",
+      "type": "nova-vulgata",
+      "find": "praises",
+      "replace": "a psalm",
+      "reason": "Nova Vulgata, Psalm 57(56):10: “et psalmum dicam tibi in nationibus”."
+    },
+    {
+      "book": "PSA",
+      "where": "58:7",
+      "type": "nova-vulgata",
+      "find": "When they draw the bow, let their arrows be made blunt",
+      "replace": "Like trampled grass, let them wither",
+      "reason": "Nova Vulgata, Psalm 58(57):8: “sicut fenum conculcatum arescant”."
+    },
+    {
+      "book": "PSA",
+      "where": "58:9",
+      "type": "nova-vulgata",
+      "find": "he will sweep away",
+      "replace": "the heat of wrath will devour",
+      "reason": "Nova Vulgata, Psalm 58(57):10: “sicut ardor irae absorbet eos”."
+    },
+    {
+      "book": "PSA",
+      "where": "59:3",
+      "type": "nova-vulgata",
+      "find": "gather themselves together against me",
+      "replace": "have rushed upon me",
+      "reason": "Nova Vulgata, Psalm 59(58):4: “irruerunt in me fortes”."
+    },
+    {
+      "book": "PSA",
+      "where": "59:16",
+      "type": "nova-vulgata",
+      "find": "sing aloud of",
+      "replace": "rejoice in",
+      "reason": "Nova Vulgata, Psalm 59(58):17: “et exsultabo mane misericordiam tuam”."
+    },
+    {
+      "book": "PSA",
+      "where": "60:1",
+      "type": "nova-vulgata",
+      "find": "Restore us",
+      "replace": "Turn back to us",
+      "reason": "Nova Vulgata, Psalm 60(59):3: “Iratus es. Convertere ad nos!”."
+    },
+    {
+      "book": "PSA",
+      "where": "60:8",
+      "type": "nova-vulgata",
+      "find": "throw",
+      "replace": "stretch out",
+      "reason": "Nova Vulgata, Psalm 60(59):10: “Super Idumaeam extendam calceamentum meum”."
+    },
+    {
+      "book": "PSA",
+      "where": "60:11",
+      "type": "nova-vulgata",
+      "find": "against the adversary",
+      "replace": "from trouble",
+      "reason": "Nova Vulgata, Psalm 60(59):12: “Da nobis auxilium de tribulatione”."
+    },
+    {
+      "book": "PSA",
+      "where": "61:1",
+      "type": "nova-vulgata",
+      "find": "my cry",
+      "replace": "my supplication",
+      "reason": "Nova Vulgata, Psalm 61(60):2: “Exaudi, Deus, deprecationem meam”."
+    },
+    {
+      "book": "PSA",
+      "where": "61:2",
+      "type": "nova-vulgata",
+      "find": "will call",
+      "replace": "have cried",
+      "reason": "Nova Vulgata, Psalm 61(60):3: “A finibus terrae ad te clamavi”."
+    },
+    {
+      "book": "PSA",
+      "where": "61:2",
+      "type": "nova-vulgata",
+      "find": "higher than I",
+      "replace": "inaccessible to me",
+      "reason": "Nova Vulgata, Psalm 61(60):3: “In petram inaccessam mihi deduc me”."
+    },
+    {
+      "book": "PSA",
+      "where": "61:2",
+      "type": "nova-vulgata",
+      "find": "is overwhelmed",
+      "replace": "was distressed",
+      "reason": "Nova Vulgata, Psalm 61(60):3: “dum anxiaretur cor meum”."
+    },
+    {
+      "book": "PSA",
+      "where": "61:3",
+      "type": "nova-vulgata",
+      "find": "a refuge for me",
+      "replace": "my hope",
+      "reason": "Nova Vulgata, Psalm 61(60):4: “Quia factus es spes mea”."
+    },
+    {
+      "book": "PSA",
+      "where": "61:7",
+      "type": "nova-vulgata",
+      "find": "be enthroned",
+      "replace": "sit",
+      "reason": "Nova Vulgata, Psalm 61(60):8: “Sedeat in aeternum in conspectu Dei”."
+    },
+    {
+      "book": "PSA",
+      "where": "61:8",
+      "type": "nova-vulgata",
+      "find": "sing praise",
+      "replace": "sing a psalm",
+      "reason": "Nova Vulgata, Psalm 61(60):9: “Sic psalmum dicam nomini tuo”."
+    },
+    {
+      "book": "PSA",
+      "where": "62:2",
+      "type": "nova-vulgata",
+      "find": "rock",
+      "replace": "refuge",
+      "reason": "Nova Vulgata, Psalm 62(61):3: “Verumtamen ipse refugium meum et salutare meum”."
+    },
+    {
+      "book": "PSA",
+      "where": "62:4",
+      "type": "nova-vulgata",
+      "find": "inwardly",
+      "replace": "in their heart",
+      "reason": "Nova Vulgata, Psalm 62(61):5: “Ore suo benedicebant et corde suo maledicebant”."
+    },
+    {
+      "book": "PSA",
+      "where": "62:5",
+      "type": "nova-vulgata",
+      "find": "wait in silence for God alone",
+      "replace": "be at rest in God alone",
+      "reason": "Nova Vulgata, Psalm 62(61):6: “In Deo tantum quiesce, anima mea”."
+    },
+    {
+      "book": "PSA",
+      "where": "62:5",
+      "type": "nova-vulgata",
+      "find": "expectation",
+      "replace": "patience",
+      "reason": "Nova Vulgata, Psalm 62(61):6: “In Deo tantum quiesce, anima mea, quoniam ab ipso patientia mea”."
+    },
+    {
+      "book": "PSA",
+      "where": "62:7",
+      "type": "nova-vulgata",
+      "find": "The rock of my strength, and my refuge, is in God.",
+      "replace": "He is the God of my strength, and my refuge is in God.",
+      "reason": "Nova Vulgata, Psalm 62(61):8: “Deus fortitudinis meae, et refugium meum in Deo est”."
+    },
+    {
+      "book": "PSA",
+      "where": "62:9",
+      "type": "nova-vulgata",
+      "find": "a breath",
+      "replace": "vanity",
+      "occurrence": 1,
+      "reason": "Nova Vulgata, Psalm 62(61):10: “Verumtamen vanitas filii Adam”."
+    },
+    {
+      "book": "PSA",
+      "where": "62:9",
+      "type": "nova-vulgata",
+      "find": "men of low degree",
+      "replace": "the sons of Adam",
+      "reason": "Nova Vulgata, Psalm 62(61):10: “Verumtamen vanitas filii Adam”."
+    },
+    {
+      "book": "PSA",
+      "where": "62:9",
+      "type": "nova-vulgata",
+      "find": "men of high degree",
+      "replace": "the sons of men",
+      "reason": "Nova Vulgata, Psalm 62(61):10: “mendacium filii hominum”."
+    },
+    {
+      "book": "PSA",
+      "where": "62:9",
+      "type": "nova-vulgata",
+      "find": "a breath",
+      "replace": "smoke",
+      "occurrence": 2,
+      "reason": "Nova Vulgata, Psalm 62(61):10: “super fumum leves sunt omnes”."
+    },
+    {
+      "book": "PSA",
+      "where": "62:10",
+      "type": "nova-vulgata",
+      "find": "oppression",
+      "replace": "violence",
+      "reason": "Nova Vulgata, Psalm 62(61):11: “Nolite sperare in violentia”."
+    },
+    {
+      "book": "PSA",
+      "where": "63:1",
+      "type": "nova-vulgata",
+      "find": "earnestly seek you",
+      "replace": "watch for you at dawn",
+      "reason": "Nova Vulgata, Psalm 63(62):2: “ad te de luce vigilo”."
+    },
+    {
+      "book": "PSA",
+      "where": "63:1",
+      "type": "nova-vulgata",
+      "find": "weary",
+      "replace": "desert",
+      "reason": "Nova Vulgata, Psalm 63(62):2: “In terra deserta et arida et inaquosa”."
+    },
+    {
+      "book": "PSA",
+      "where": "63:2",
+      "type": "nova-vulgata",
+      "find": "I have seen you in the sanctuary",
+      "replace": "I have appeared before you in the sanctuary",
+      "reason": "Nova Vulgata, Psalm 63(62):3: “sic in sancto apparui tibi”."
+    },
+    {
+      "book": "PSA",
+      "where": "63:6",
+      "type": "nova-vulgata",
+      "find": "in the night watches",
+      "replace": "in the morning",
+      "reason": "Nova Vulgata, Psalm 63(62):7: “in matutinis meditabor de te”."
+    },
+    {
+      "book": "PSA",
+      "where": "63:11",
+      "type": "nova-vulgata",
+      "find": "speak lies",
+      "replace": "speak iniquity",
+      "reason": "Nova Vulgata, Psalm 63(62):12: “quia obstructum est os loquentium iniqua”."
+    },
+    {
+      "book": "PSA",
+      "where": "64:1",
+      "type": "nova-vulgata",
+      "find": "complaint",
+      "replace": "meditation",
+      "reason": "Nova Vulgata, Psalm 64(63):2: “Exaudi, Deus, vocem meam in meditatione mea”."
+    },
+    {
+      "book": "PSA",
+      "where": "64:2",
+      "type": "nova-vulgata",
+      "find": "Hide",
+      "replace": "Protect",
+      "reason": "Nova Vulgata, Psalm 64(63):3: “Protege me a conventu malignantium”."
+    },
+    {
+      "book": "PSA",
+      "where": "64:2",
+      "type": "nova-vulgata",
+      "find": "conspiracy",
+      "replace": "gathering",
+      "reason": "Nova Vulgata, Psalm 64(63):3: “a conventu malignantium”."
+    },
+    {
+      "book": "PSA",
+      "where": "64:6",
+      "type": "nova-vulgata",
+      "find": "Surely man’s mind and heart are cunning.",
+      "replace": "A man’s inward parts and heart are an abyss.",
+      "reason": "Nova Vulgata, Psalm 64(63):7: “Interiora hominis et cor eius abyssus”."
+    },
+    {
+      "book": "PSA",
+      "where": "64:8",
+      "type": "nova-vulgata",
+      "find": "ruin them",
+      "replace": "weaken them",
+      "reason": "Nova Vulgata, Psalm 64(63):9: “et infirmavit eos lingua eorum”."
+    },
+    {
+      "book": "PSA",
+      "where": "65:1",
+      "type": "nova-vulgata",
+      "find": "performed to you",
+      "replace": "performed to you in Jerusalem",
+      "reason": "Nova Vulgata, Psalm 65(64):2: “et tibi reddetur votum in Ierusalem”."
+    },
+    {
+      "book": "PSA",
+      "where": "65:11",
+      "type": "nova-vulgata",
+      "find": "carts",
+      "replace": "footsteps",
+      "reason": "Nova Vulgata, Psalm 65(64):12: “et vestigia tua stillabunt pinguedinem”."
+    },
+    {
+      "book": "PSA",
+      "where": "66:3",
+      "type": "nova-vulgata",
+      "find": "submit themselves to you",
+      "replace": "fawn on you",
+      "reason": "Nova Vulgata, Psalm 66(65):3: “Prae multitudine virtutis tuae blandientur tibi inimici tui”."
+    },
+    {
+      "book": "PSA",
+      "where": "66:12",
+      "type": "nova-vulgata",
+      "find": "allowed men to ride",
+      "replace": "put men",
+      "reason": "Nova Vulgata, Psalm 66(65):12: “Imposuisti homines super capita nostra”."
+    },
+    {
+      "book": "PSA",
+      "where": "67:3",
+      "type": "nova-vulgata",
+      "find": "praise",
+      "replace": "confess",
+      "occurrence": 2,
+      "reason": "Nova Vulgata, Psalm 67(66):4: “confiteantur tibi populi omnes”."
+    },
+    {
+      "book": "PSA",
+      "where": "68:4",
+      "type": "nova-vulgata",
+      "find": "Extol",
+      "replace": "Make a path for",
+      "reason": "Nova Vulgata, Psalm 68(67):5: “iter facite ei, qui fertur super nubes”."
+    },
+    {
+      "book": "PSA",
+      "where": "68:5",
+      "type": "nova-vulgata",
+      "find": "defender",
+      "replace": "judge",
+      "reason": "Nova Vulgata, Psalm 68(67):6: “pater orphanorum et iudex viduarum”."
+    },
+    {
+      "book": "PSA",
+      "where": "68:17",
+      "type": "nova-vulgata",
+      "find": "is among them, from Sinai, into",
+      "replace": "comes from Sinai into",
+      "reason": "Nova Vulgata, Psalm 68(67):18: “Dominus venit de Sinai in sancta”."
+    },
+    {
+      "book": "PSA",
+      "where": "68:18",
+      "type": "nova-vulgata",
+      "find": "gifts among people",
+      "replace": "people as gifts",
+      "reason": "Nova Vulgata, Psalm 68(67):19: “accepisti in donum homines”."
+    },
+    {
+      "book": "PSA",
+      "where": "68:28",
+      "type": "nova-vulgata",
+      "find": "for us",
+      "replace": "in us",
+      "reason": "Nova Vulgata, Psalm 68(67):29: “confirma hoc, Deus, quod operatus es in nobis”."
+    },
+    {
+      "book": "PSA",
+      "where": "68:29",
+      "type": "nova-vulgata",
+      "find": "Because of your temple",
+      "replace": "From your temple",
+      "reason": "Nova Vulgata, Psalm 68(67):30: “A templo tuo in Ierusalem tibi afferent reges munera”."
+    },
+    {
+      "book": "PSA",
+      "where": "68:30",
+      "type": "nova-vulgata",
+      "find": "Trample under foot the bars of silver",
+      "replace": "Let them prostrate themselves with bars of silver",
+      "reason": "Nova Vulgata, Psalm 68(67):31: “prosternant se cum laminis argenti”."
+    },
+    {
+      "book": "PSA",
+      "where": "68:33",
+      "type": "nova-vulgata",
+      "find": "heavens, which are of old",
+      "replace": "heavens to the east",
+      "reason": "Nova Vulgata, Psalm 68(67):34: “qui fertur super caelum caeli ad orientem”."
+    },
+    {
+      "book": "PSA",
+      "where": "69:16",
+      "type": "nova-vulgata",
+      "find": "turn to",
+      "replace": "look upon",
+      "reason": "Nova Vulgata, Psalm 69(68):17: “secundum multitudinem miserationum tuarum respice in me”."
+    },
+    {
+      "book": "PSA",
+      "where": "69:20",
+      "type": "nova-vulgata",
+      "find": "take pity",
+      "replace": "grieve with me",
+      "reason": "Nova Vulgata, Psalm 69(68):21: “Et sustinui, qui simul contristaretur, et non fuit”."
+    },
+    {
+      "book": "PSA",
+      "where": "69:20",
+      "type": "nova-vulgata",
+      "find": "full of heaviness",
+      "replace": "weak",
+      "reason": "Nova Vulgata, Psalm 69(68):21: “opprobrium contrivit cor meum, et elangui”."
+    },
+    {
+      "book": "PSA",
+      "where": "69:21",
+      "type": "nova-vulgata",
+      "find": "poison",
+      "replace": "gall",
+      "reason": "Nova Vulgata, Psalm 69(68):22: “Et dederunt in escam meam fel”."
+    },
+    {
+      "book": "PSA",
+      "where": "69:26",
+      "type": "nova-vulgata",
+      "find": "tell of",
+      "replace": "add to",
+      "reason": "Nova Vulgata, Psalm 69(68):27: “et super dolorem eius, quem vulnerasti, addiderunt”."
+    },
+    {
+      "book": "PSA",
+      "where": "71:4",
+      "type": "nova-vulgata",
+      "find": "cruel",
+      "replace": "lawless",
+      "reason": "Nova Vulgata, Psalm 71(70):4: “de manu contra legem agentis et iniqui”."
+    },
+    {
+      "book": "PSA",
+      "where": "71:6",
+      "type": "nova-vulgata",
+      "find": "who took me out of",
+      "replace": "who has supported me from",
+      "reason": "Nova Vulgata, Psalm 71(70):6: “de ventre matris meae tu es susceptor meus”."
+    },
+    {
+      "book": "PSA",
+      "where": "71:7",
+      "type": "nova-vulgata",
+      "find": "refuge",
+      "replace": "helper",
+      "reason": "Nova Vulgata, Psalm 71(70):7: “et tu adiutor fortis”."
+    },
+    {
+      "book": "PSA",
+      "where": "72:3",
+      "type": "nova-vulgata",
+      "find": "prosperity",
+      "replace": "peace",
+      "reason": "Nova Vulgata, Psalm 72(71):3: “Afferant montes pacem populo”."
+    },
+    {
+      "book": "PSA",
+      "where": "72:13",
+      "type": "nova-vulgata",
+      "find": "needy",
+      "replace": "poor",
+      "occurrence": 2,
+      "reason": "Nova Vulgata, Psalm 72(71):13: “et animas pauperum salvas faciet”."
+    },
+    {
+      "book": "PSA",
+      "where": "72:17",
+      "type": "nova-vulgata",
+      "find": "His name endures forever.",
+      "replace": "May his name be blessed forever.",
+      "reason": "Nova Vulgata, Psalm 72(71):17: “Sit nomen eius benedictum in saecula”."
+    },
+    {
+      "book": "PSA",
+      "where": "73:1",
+      "type": "nova-vulgata",
+      "find": "Israel",
+      "replace": "the upright",
+      "reason": "Nova Vulgata, Psalm 73(72):1: “Quam bonus rectis est Deus”."
+    },
+    {
+      "book": "PSA",
+      "where": "73:3",
+      "type": "nova-vulgata",
+      "find": "prosperity",
+      "replace": "peace",
+      "reason": "Nova Vulgata, Psalm 73(72):3: “pacem peccatorum videns”."
+    },
+    {
+      "book": "PSA",
+      "where": "73:7",
+      "type": "nova-vulgata",
+      "find": "Their eyes bulge with fat.",
+      "replace": "Their iniquity comes forth as from fatness.",
+      "reason": "Nova Vulgata, Psalm 73(72):7: “Prodit quasi ex adipe iniquitas eorum”."
+    },
+    {
+      "book": "PSA",
+      "where": "73:8",
+      "type": "nova-vulgata",
+      "find": "In arrogance, they threaten oppression.",
+      "replace": "They speak iniquity from on high.",
+      "reason": "Nova Vulgata, Psalm 73(72):8: “iniquitatem ab excelso locuti sunt”."
+    },
+    {
+      "book": "PSA",
+      "where": "73:12",
+      "type": "nova-vulgata",
+      "find": "Being always at ease",
+      "replace": "Abounding in the world",
+      "reason": "Nova Vulgata, Psalm 73(72):12: “abundantes in saeculo multiplicaverunt divitias”."
+    },
+    {
+      "book": "PSA",
+      "where": "73:20",
+      "type": "nova-vulgata",
+      "find": "their fantasies",
+      "replace": "their image",
+      "reason": "Nova Vulgata, Psalm 73(72):20: “surgens imaginem ipsorum contemnes”."
+    },
+    {
+      "book": "PSA",
+      "where": "74:5",
+      "type": "nova-vulgata",
+      "find": "wielding axes",
+      "replace": "brandishing axes on high",
+      "reason": "Nova Vulgata, Psalm 74(73):5: “quasi in altum securim vibrantes in silva condensa”."
+    },
+    {
+      "book": "PSA",
+      "where": "74:6",
+      "type": "nova-vulgata",
+      "find": "hammers",
+      "replace": "axe",
+      "reason": "Nova Vulgata, Psalm 74(73):6: “in securi et ascia deiecerunt”."
+    },
+    {
+      "book": "PSA",
+      "where": "74:6",
+      "type": "nova-vulgata",
+      "find": "carved work",
+      "replace": "doors",
+      "reason": "Nova Vulgata, Psalm 74(73):6: “Exciderunt ianuas eius in idipsum”."
+    },
+    {
+      "book": "PSA",
+      "where": "74:14",
+      "type": "nova-vulgata",
+      "find": "to people and desert creatures",
+      "replace": "to the monsters of the sea",
+      "reason": "Nova Vulgata, Psalm 74(73):14: “dedisti eum escam monstris maris”."
+    },
+    {
+      "book": "PSA",
+      "where": "74:19",
+      "type": "nova-vulgata",
+      "find": "deliver the soul of your dove to wild beasts",
+      "replace": "deliver to wild beasts the souls of those who confess you",
+      "reason": "Nova Vulgata, Psalm 74(73):19: “Ne tradas bestiis animas confitentes tibi”."
+    },
+    {
+      "book": "PSA",
+      "where": "75:1",
+      "type": "nova-vulgata",
+      "find": "for your Name is near",
+      "replace": "and invoke your Name",
+      "reason": "Nova Vulgata, Psalm 75(74):2: “confitebimur et invocabimus nomen tuum”."
+    },
+    {
+      "book": "PSA",
+      "where": "75:3",
+      "type": "nova-vulgata",
+      "find": "quake",
+      "replace": "dissolve",
+      "reason": "Nova Vulgata, Psalm 75(74):4: “Si liquefacta est terra et omnes, qui habitant in ea”."
+    },
+    {
+      "book": "PSA",
+      "where": "75:5",
+      "type": "nova-vulgata",
+      "find": "with a stiff neck",
+      "replace": "insolently against God",
+      "reason": "Nova Vulgata, Psalm 75(74):6: “nolite loqui adversus Deum proterva”."
+    },
+    {
+      "book": "PSA",
+      "where": "75:8",
+      "type": "nova-vulgata",
+      "find": "foaming",
+      "replace": "undiluted",
+      "reason": "Nova Vulgata, Psalm 75(74):9: “calix in manu Domini vini meri plenus mixto”."
+    },
+    {
+      "book": "PSA",
+      "where": "76:10",
+      "type": "nova-vulgata",
+      "find": "are restrained",
+      "replace": "shall keep a festival for you",
+      "reason": "Nova Vulgata, Psalm 76(75):11: “reliquiae furoris diem festum agent tibi”."
+    },
+    {
+      "book": "PSA",
+      "where": "78:2",
+      "type": "nova-vulgata",
+      "find": "dark sayings",
+      "replace": "the secrets",
+      "reason": "Nova Vulgata, Psalm 78(77):2: “eloquar arcana aetatis antiquae”."
+    },
+    {
+      "book": "PSA",
+      "where": "78:13",
+      "type": "nova-vulgata",
+      "find": "as a heap",
+      "replace": "as in a water skin",
+      "reason": "Nova Vulgata, Psalm 78(77):13: “statuit aquas quasi in utre”."
+    },
+    {
+      "book": "PSA",
+      "where": "78:17",
+      "type": "nova-vulgata",
+      "find": "to rebel against",
+      "replace": "to provoke",
+      "reason": "Nova Vulgata, Psalm 78(77):17: “in iram excitaverunt Excelsum in inaquoso”."
+    },
+    {
+      "book": "PSA",
+      "where": "78:33",
+      "type": "nova-vulgata",
+      "find": "terror",
+      "replace": "haste",
+      "reason": "Nova Vulgata, Psalm 78(77):33: “et annos eorum cum festinatione”."
+    },
+    {
+      "book": "PSA",
+      "where": "78:35",
+      "type": "nova-vulgata",
+      "find": "rock",
+      "replace": "helper",
+      "reason": "Nova Vulgata, Psalm 78(77):35: “quia Deus adiutor est eorum”."
+    },
+    {
+      "book": "PSA",
+      "where": "78:36",
+      "type": "nova-vulgata",
+      "find": "flattered",
+      "replace": "coaxed",
+      "reason": "Nova Vulgata, Psalm 78(77):36: “Et suaserunt ei in ore suo”."
+    },
+    {
+      "book": "PSA",
+      "where": "78:39",
+      "type": "nova-vulgata",
+      "find": "wind",
+      "replace": "breath",
+      "reason": "Nova Vulgata, Psalm 78(77):39: “spiritus vadens et non rediens”. Rendered per the liturgical tradition (Grail Psalter: “a breath that passes, never to return”)."
+    },
+    {
+      "book": "PSA",
+      "where": "78:40",
+      "type": "nova-vulgata",
+      "find": "rebelled against",
+      "replace": "provoked",
+      "reason": "Nova Vulgata, Psalm 78(77):40: “Quoties exacerbaverunt eum in deserto”."
+    },
+    {
+      "book": "PSA",
+      "where": "78:53",
+      "type": "nova-vulgata",
+      "find": "safely",
+      "replace": "in hope",
+      "reason": "Nova Vulgata, Psalm 78(77):53: “Deduxit eos in spe, et non timuerunt”."
+    },
+    {
+      "book": "PSA",
+      "where": "78:56",
+      "type": "nova-vulgata",
+      "find": "rebelled against",
+      "replace": "provoked",
+      "reason": "Nova Vulgata, Psalm 78(77):56: “Et tentaverunt et exacerbaverunt Deum Excelsum”."
+    },
+    {
+      "book": "PSA",
+      "where": "78:60",
+      "type": "nova-vulgata",
+      "find": "the tent of Shiloh",
+      "replace": "the dwelling of Shiloh",
+      "reason": "Nova Vulgata, Psalm 78(77):60: “Et reppulit habitaculum Silo”."
+    },
+    {
+      "book": "PSA",
+      "where": "78:66",
+      "type": "nova-vulgata",
+      "find": "backward",
+      "replace": "in the rear",
+      "reason": "Nova Vulgata, Psalm 78(77):66: “Et percussit inimicos suos in posteriora”."
+    },
+    {
+      "book": "PSA",
+      "where": "79:11",
+      "type": "nova-vulgata",
+      "find": "the greatness of your power",
+      "replace": "the greatness of your arm",
+      "reason": "Nova Vulgata, Psalm 79(78):11: “secundum magnitudinem brachii tui”."
+    },
+    {
+      "book": "PSA",
+      "where": "80:6",
+      "type": "nova-vulgata",
+      "find": "laugh among themselves",
+      "replace": "mock us",
+      "reason": "Nova Vulgata, Psalm 80(79):7: “et inimici nostri subsannaverunt nos”."
+    },
+    {
+      "book": "PSA",
+      "where": "80:15",
+      "type": "nova-vulgata",
+      "find": "the stock which",
+      "replace": "and protect that which",
+      "reason": "Nova Vulgata, Psalm 80(79):16: “Et protege eam, quam plantavit dextera tua”."
+    },
+    {
+      "book": "PSA",
+      "where": "80:15",
+      "type": "nova-vulgata",
+      "find": "the branch that",
+      "replace": "and look upon the son of man whom",
+      "reason": "Nova Vulgata, Psalm 80(79):16: “et super filium hominis, quem confirmasti tibi”."
+    },
+    {
+      "book": "PSA",
+      "where": "81:1",
+      "type": "nova-vulgata",
+      "find": "strength",
+      "replace": "helper",
+      "reason": "Nova Vulgata, Psalm 81(80):2: “Exsultate Deo adiutori nostro”."
+    },
+    {
+      "book": "PSA",
+      "where": "81:1",
+      "type": "nova-vulgata",
+      "find": "Sing aloud to God",
+      "replace": "Exult in God",
+      "reason": "Nova Vulgata, Psalm 81(80):2: “Exsultate Deo adiutori nostro”."
+    },
+    {
+      "book": "PSA",
+      "where": "81:5",
+      "type": "nova-vulgata",
+      "find": "over",
+      "replace": "from",
+      "reason": "Nova Vulgata, Psalm 81(80):6: “cum exiret de terra Aegypti”."
+    },
+    {
+      "book": "PSA",
+      "where": "81:5",
+      "type": "nova-vulgata",
+      "find": "a covenant",
+      "replace": "a testimony",
+      "reason": "Nova Vulgata, Psalm 81(80):6: “Testimonium in Ioseph posuit illud”."
+    },
+    {
+      "book": "PSA",
+      "where": "81:7",
+      "type": "nova-vulgata",
+      "find": "the secret place of thunder",
+      "replace": "the hiding place of the storm",
+      "reason": "Nova Vulgata, Psalm 81(80):8: “exaudivi te in abscondito tempestatis”."
+    },
+    {
+      "book": "PSA",
+      "where": "81:14",
+      "type": "nova-vulgata",
+      "find": "subdue",
+      "replace": "humble",
+      "reason": "Nova Vulgata, Psalm 81(80):15: “In brevi inimicos eorum humiliassem”."
+    },
+    {
+      "book": "PSA",
+      "where": "82:4",
+      "type": "nova-vulgata",
+      "find": "weak",
+      "replace": "poor",
+      "reason": "Nova Vulgata, Psalm 82(81):4: “Eripite pauperem et egenum”."
+    },
+    {
+      "book": "PSA",
+      "where": "83:3",
+      "type": "nova-vulgata",
+      "find": "cherished",
+      "replace": "hidden",
+      "reason": "Nova Vulgata, Psalm 83(82):4: “cogitaverunt adversus eos, quos abscondisti tibi”."
+    },
+    {
+      "book": "PSA",
+      "where": "83:13",
+      "type": "nova-vulgata",
+      "find": "like tumbleweed",
+      "replace": "like a wheel",
+      "reason": "Nova Vulgata, Psalm 83(82):14: “Deus meus, pone illos ut rotam”."
+    },
+    {
+      "book": "PSA",
+      "where": "84:5",
+      "type": "nova-vulgata",
+      "find": "strength is in you",
+      "replace": "help is from you",
+      "reason": "Nova Vulgata, Psalm 84(83):6: “Beatus vir, cuius est auxilium abs te”."
+    },
+    {
+      "book": "PSA",
+      "where": "84:7",
+      "type": "nova-vulgata",
+      "find": "Every one of them appears before God in Zion",
+      "replace": "The God of gods will be seen in Zion",
+      "reason": "Nova Vulgata, Psalm 84(83):8: “videbitur Deus deorum in Sion”."
+    },
+    {
+      "book": "PSA",
+      "where": "84:10",
+      "type": "nova-vulgata",
+      "find": "be a doorkeeper",
+      "replace": "be at the threshold",
+      "reason": "Nova Vulgata, Psalm 84(83):11: “elegi ad limen esse in domo Dei mei”."
+    },
+    {
+      "book": "PSA",
+      "where": "85:8",
+      "type": "nova-vulgata",
+      "find": "but let them not turn again to folly.",
+      "replace": "and to those who are converted in heart.",
+      "reason": "Nova Vulgata, Psalm 85(84):9: “et ad eos, qui convertuntur corde”."
+    },
+    {
+      "book": "PSA",
+      "where": "86:1",
+      "type": "nova-vulgata",
+      "find": "Hear, LORD, and answer me",
+      "replace": "Incline your ear, LORD, and hear me",
+      "reason": "Nova Vulgata, Psalm 86(85):1: “Inclina, Domine, aurem tuam et exaudi me”."
+    },
+    {
+      "book": "PSA",
+      "where": "86:2",
+      "type": "nova-vulgata",
+      "find": "godly",
+      "replace": "holy",
+      "reason": "Nova Vulgata, Psalm 86(85):2: “Custodi animam meam, quoniam sanctus sum”."
+    },
+    {
+      "book": "PSA",
+      "where": "86:5",
+      "type": "nova-vulgata",
+      "find": "good, and ready to forgive",
+      "replace": "sweet and gentle",
+      "reason": "Nova Vulgata, Psalm 86(85):5: “Quoniam tu, Domine, suavis et mitis”."
+    },
+    {
+      "book": "PSA",
+      "where": "86:14",
+      "type": "nova-vulgata",
+      "find": "violent men",
+      "replace": "the mighty",
+      "reason": "Nova Vulgata, Psalm 86(85):14: “synagoga potentium quaesierunt animam meam”."
+    },
+    {
+      "book": "PSA",
+      "where": "86:15",
+      "type": "nova-vulgata",
+      "find": "gracious",
+      "replace": "compassionate",
+      "reason": "Nova Vulgata, Psalm 86(85):15: “Deus miserator et misericors”."
+    },
+    {
+      "book": "PSA",
+      "where": "88:9",
+      "type": "nova-vulgata",
+      "find": "are dim",
+      "replace": "languish",
+      "reason": "Nova Vulgata, Psalm 88(87):10: “Oculi mei languerunt prae afflictione”."
+    },
+    {
+      "book": "PSA",
+      "where": "88:9",
+      "type": "nova-vulgata",
+      "find": "grief",
+      "replace": "affliction",
+      "reason": "Nova Vulgata, Psalm 88(87):10: “Oculi mei languerunt prae afflictione”."
+    },
+    {
+      "book": "PSA",
+      "where": "88:15",
+      "type": "nova-vulgata",
+      "find": "distracted",
+      "replace": "confounded",
+      "reason": "Nova Vulgata, Psalm 88(87):16: “portavi pavores tuos et conturbatus sum”."
+    },
+    {
+      "book": "PSA",
+      "where": "88:18",
+      "type": "nova-vulgata",
+      "find": "lover",
+      "replace": "neighbor",
+      "reason": "Nova Vulgata, Psalm 88(87):19: “Elongasti a me amicum et proximum”."
+    },
+    {
+      "book": "PSA",
+      "where": "89:2",
+      "type": "nova-vulgata",
+      "find": "“Love stands firm forever.",
+      "replace": "“Mercy will be built up forever.”",
+      "reason": "Nova Vulgata, Psalm 89(88):3: “Quoniam dixisti: ‘In aeternum misericordia aedificabitur’”."
+    },
+    {
+      "book": "PSA",
+      "where": "89:2",
+      "type": "nova-vulgata",
+      "find": "I indeed declare,",
+      "replace": "For you said,",
+      "reason": "Nova Vulgata, Psalm 89(88):3: “Quoniam dixisti: ‘In aeternum misericordia aedificabitur’”."
+    },
+    {
+      "book": "PSA",
+      "where": "89:6",
+      "type": "nova-vulgata",
+      "find": "skies",
+      "replace": "clouds",
+      "reason": "Nova Vulgata, Psalm 89(88):7: “Quoniam quis in nubibus aequabitur Domino”."
+    },
+    {
+      "book": "PSA",
+      "where": "89:6",
+      "type": "nova-vulgata",
+      "find": "compared",
+      "replace": "equal",
+      "reason": "Nova Vulgata, Psalm 89(88):7: “Quoniam quis in nubibus aequabitur Domino”."
+    },
+    {
+      "book": "PSA",
+      "where": "89:7",
+      "type": "nova-vulgata",
+      "find": "to be feared",
+      "replace": "great and terrible",
+      "reason": "Nova Vulgata, Psalm 89(88):8: “magnus et terribilis super omnes, qui in circuitu eius sunt”."
+    },
+    {
+      "book": "PSA",
+      "where": "89:31",
+      "type": "nova-vulgata",
+      "find": "break",
+      "replace": "profane",
+      "reason": "Nova Vulgata, Psalm 89(88):32: “si iustificationes meas profanaverint”."
+    },
+    {
+      "book": "PSA",
+      "where": "89:33",
+      "type": "nova-vulgata",
+      "find": "nor allow my faithfulness to fail.",
+      "replace": "nor will I be false to my truth.",
+      "reason": "Nova Vulgata, Psalm 89(88):34: “neque mentiar in veritate mea”."
+    },
+    {
+      "book": "PSA",
+      "where": "89:34",
+      "type": "nova-vulgata",
+      "find": "break my covenant",
+      "replace": "profane my covenant",
+      "reason": "Nova Vulgata, Psalm 89(88):35: “Non profanabo testamentum meum”."
+    },
+    {
+      "book": "PSA",
+      "where": "89:39",
+      "type": "nova-vulgata",
+      "find": "defiled",
+      "replace": "profaned",
+      "reason": "Nova Vulgata, Psalm 89(88):40: “profanasti in terram diadema eius”."
+    },
+    {
+      "book": "PSA",
+      "where": "90:6",
+      "type": "nova-vulgata",
+      "find": "sprouts and springs up",
+      "replace": "blossoms and grows",
+      "reason": "Nova Vulgata, Psalm 90(89):6: “mane floret et crescit”."
+    },
+    {
+      "book": "PSA",
+      "where": "92:10",
+      "type": "nova-vulgata",
+      "find": "fresh",
+      "replace": "rich",
+      "reason": "Nova Vulgata, Psalm 92(91):11: “perfusus sum oleo uberi”."
+    },
+    {
+      "book": "PSA",
+      "where": "92:15",
+      "type": "nova-vulgata",
+      "find": "rock",
+      "replace": "refuge",
+      "reason": "Nova Vulgata, Psalm 92(91):16: “quoniam rectus Dominus, refugium meum”."
+    },
+    {
+      "book": "PSA",
+      "where": "93:5",
+      "type": "nova-vulgata",
+      "find": "statutes",
+      "replace": "testimonies",
+      "reason": "Nova Vulgata, Psalm 93(92):5: “Testimonia tua credibilia facta sunt nimis”."
+    },
+    {
+      "book": "PSA",
+      "where": "94:21",
+      "type": "nova-vulgata",
+      "find": "gather themselves together against",
+      "replace": "rush upon",
+      "reason": "Nova Vulgata, Psalm 94(93):21: “Irruunt in animam iusti”."
+    },
+    {
+      "book": "PSA",
+      "where": "95:1",
+      "type": "nova-vulgata",
+      "find": "the rock of our salvation",
+      "replace": "God our Savior",
+      "reason": "Nova Vulgata, Psalm 95(94):1: “iubilemus Deo salutari nostro”."
+    },
+    {
+      "book": "PSA",
+      "where": "96:5",
+      "type": "nova-vulgata",
+      "find": "idols",
+      "replace": "empty things",
+      "reason": "Nova Vulgata, Psalm 96(95):5: “Quoniam omnes dii gentium inania”."
+    },
+    {
+      "book": "PSA",
+      "where": "97:7",
+      "type": "nova-vulgata",
+      "find": "you gods",
+      "replace": "his angels",
+      "reason": "Nova Vulgata, Psalm 97(96):7: “Adorate eum, omnes angeli eius”."
+    },
+    {
+      "book": "PSA",
+      "where": "101:7",
+      "type": "nova-vulgata",
+      "find": "practices deceit",
+      "replace": "acts proudly",
+      "reason": "Nova Vulgata, Psalm 101(100):7: “Non habitabit in medio domus meae, qui facit superbiam”."
+    },
+    {
+      "book": "PSA",
+      "where": "101:7",
+      "type": "nova-vulgata",
+      "find": "falsehood",
+      "replace": "unjust things",
+      "reason": "Nova Vulgata, Psalm 101(100):7: “qui loquitur iniqua, non stabit in conspectu oculorum meorum”."
+    },
+    {
+      "book": "PSA",
+      "where": "102:11",
+      "type": "nova-vulgata",
+      "find": "are",
+      "replace": "have declined",
+      "reason": "Nova Vulgata, Psalm 102(101):12: “Dies mei sicut umbra declinaverunt, et ego sicut fenum arui”."
+    },
+    {
+      "book": "PSA",
+      "where": "104:8",
+      "type": "nova-vulgata",
+      "find": "the valleys sank down",
+      "replace": "they went down to the valleys",
+      "reason": "Nova Vulgata, Psalm 104(103):8: “Ascendunt in montes et descendunt in valles, in locum, quem statuisti eis”."
+    },
+    {
+      "book": "PSA",
+      "where": "104:8",
+      "type": "nova-vulgata",
+      "find": "The mountains rose",
+      "replace": "They went up to the mountains",
+      "reason": "Nova Vulgata, Psalm 104(103):8: “Ascendunt in montes et descendunt in valles”."
+    },
+    {
+      "book": "PSA",
+      "where": "104:14",
+      "type": "nova-vulgata",
+      "find": "man to cultivate",
+      "replace": "the service of man",
+      "reason": "Nova Vulgata, Psalm 104(103):14: “Producis fenum iumentis et herbam servituti hominum”."
+    },
+    {
+      "book": "PSA",
+      "where": "104:17",
+      "type": "nova-vulgata",
+      "find": "stork",
+      "replace": "heron",
+      "reason": "Nova Vulgata, Psalm 104(103):17: “Illic passeres nidificabunt, erodii domus in vertice earum”."
+    },
+    {
+      "book": "PSA",
+      "where": "104:17",
+      "type": "nova-vulgata",
+      "find": "the cypress trees",
+      "replace": "their tops",
+      "reason": "Nova Vulgata, Psalm 104(103):17: “erodii domus in vertice earum”."
+    },
+    {
+      "book": "PSA",
+      "where": "104:18",
+      "type": "nova-vulgata",
+      "find": "wild goats",
+      "replace": "deer",
+      "reason": "Nova Vulgata, Psalm 104(103):18: “Montes excelsi cervis, petrae refugium hyracibus”."
+    },
+    {
+      "book": "PSA",
+      "where": "105:5",
+      "type": "nova-vulgata",
+      "find": "his wonders",
+      "replace": "his portents",
+      "reason": "Nova Vulgata, Psalm 105(104):5: “Mementote mirabilium eius, quae fecit, prodigia eius et iudicia oris eius”."
+    },
+    {
+      "book": "PSA",
+      "where": "105:32",
+      "type": "nova-vulgata",
+      "find": "lightning",
+      "replace": "flaming fire",
+      "reason": "Nova Vulgata, Psalm 105(104):32: “Posuit pluvias eorum grandinem, ignem comburentem in terra ipsorum”."
+    },
+    {
+      "book": "PSA",
+      "where": "105:43",
+      "type": "nova-vulgata",
+      "find": "singing",
+      "replace": "gladness",
+      "reason": "Nova Vulgata, Psalm 105(104):43: “Et eduxit populum suum in exsultatione, electos suos in laetitia”."
+    },
+    {
+      "book": "PSA",
+      "where": "106:4",
+      "type": "nova-vulgata",
+      "find": "Remember me",
+      "replace": "Remember us",
+      "reason": "Nova Vulgata, Psalm 106(105):4: “Memento nostri, Domine, in beneplacito populi tui, visita nos in salutari tuo”."
+    },
+    {
+      "book": "PSA",
+      "where": "106:5",
+      "type": "nova-vulgata",
+      "find": "that I may see",
+      "replace": "that we may see",
+      "reason": "Nova Vulgata, Psalm 106(105):5: “ut videamus bona electorum tuorum”."
+    },
+    {
+      "book": "PSA",
+      "where": "106:15",
+      "type": "nova-vulgata",
+      "find": "leanness",
+      "replace": "satiety",
+      "reason": "Nova Vulgata, Psalm 106(105):15: “Et dedit eis petitionem ipsorum et misit saturitatem in animas eorum”."
+    },
+    {
+      "book": "PSA",
+      "where": "106:43",
+      "type": "nova-vulgata",
+      "find": "were rebellious in their counsel",
+      "replace": "provoked him with their counsel",
+      "reason": "Nova Vulgata, Psalm 106(105):43: “ipsi autem exacerbaverunt eum in consilio suo et corruerunt in iniquitatibus suis”."
+    },
+    {
+      "book": "PSA",
+      "where": "107:9",
+      "type": "nova-vulgata",
+      "find": "longing",
+      "replace": "thirsting",
+      "reason": "Nova Vulgata, Psalm 107(106):9: “quia satiavit animam sitientem et animam esurientem replevit bonis”."
+    },
+    {
+      "book": "PSA",
+      "where": "107:16",
+      "type": "nova-vulgata",
+      "find": "cut through",
+      "replace": "shattered",
+      "reason": "Nova Vulgata, Psalm 107(106):16: “quia contrivit portas aereas et vectes ferreos confregit”."
+    },
+    {
+      "book": "PSA",
+      "where": "109:24",
+      "type": "nova-vulgata",
+      "find": "lacks fat",
+      "replace": "lacks oil",
+      "reason": "Nova Vulgata, Psalm 109(108):24: “Genua mea infirmata sunt ieiunio, et caro mea contabuit absque oleo”."
+    },
+    {
+      "book": "PSA",
+      "where": "110:3",
+      "type": "nova-vulgata",
+      "find": "Your people offer themselves willingly",
+      "replace": "Yours is princely rule",
+      "reason": "Nova Vulgata, Psalm 110(109):3: “Tecum principatus in die virtutis tuae”."
+    },
+    {
+      "book": "PSA",
+      "where": "110:3",
+      "type": "nova-vulgata",
+      "find": "in holy array",
+      "replace": "in holy splendors",
+      "reason": "Nova Vulgata, Psalm 110(109):3: “in splendoribus sanctis”."
+    },
+    {
+      "book": "PSA",
+      "where": "110:3",
+      "type": "nova-vulgata",
+      "find": "Out of the womb of the morning, you have the dew of your youth.",
+      "replace": "Out of the womb, before the morning star, I have begotten you.",
+      "reason": "Nova Vulgata, Psalm 110(109):3: “ex utero ante luciferum genui te”."
+    },
+    {
+      "book": "PSA",
+      "where": "111:6",
+      "type": "nova-vulgata",
+      "find": "shown",
+      "replace": "declared to",
+      "reason": "Nova Vulgata, Psalm 111(110):6: “Virtutem operum suorum annuntiavit populo suo”."
+    },
+    {
+      "book": "PSA",
+      "where": "115:9",
+      "type": "nova-vulgata",
+      "find": "Israel, trust in the LORD!",
+      "replace": "The house of Israel has hoped in the LORD.",
+      "reason": "Nova Vulgata, Psalm 115(113 B):9: “Domus Israel speravit in Domino: adiutorium eorum et scutum eorum est”."
+    },
+    {
+      "book": "PSA",
+      "where": "115:10",
+      "type": "nova-vulgata",
+      "find": "House of Aaron, trust in the LORD!",
+      "replace": "The house of Aaron has hoped in the LORD.",
+      "reason": "Nova Vulgata, Psalm 115(113 B):10: “Domus Aaron speravit in Domino: adiutorium eorum et scutum eorum est”."
+    },
+    {
+      "book": "PSA",
+      "where": "115:11",
+      "type": "nova-vulgata",
+      "find": "You who fear the LORD, trust in the LORD!",
+      "replace": "Those who fear the LORD have hoped in the LORD.",
+      "reason": "Nova Vulgata, Psalm 115(113 B):11: “Qui timent Dominum, speraverunt in Domino: adiutorium eorum et scutum eorum est”."
+    },
+    {
+      "book": "PSA",
+      "where": "115:18",
+      "type": "nova-vulgata",
+      "find": "we will bless",
+      "replace": "we who live will bless",
+      "reason": "Nova Vulgata, Psalm 115(113 B):18: “sed nos, qui vivimus, benedicimus Domino”."
+    },
+    {
+      "book": "PSA",
+      "where": "118:27",
+      "type": "nova-vulgata",
+      "find": "Bind the sacrifice with cords",
+      "replace": "Arrange the festal procession with leafy branches",
+      "reason": "Nova Vulgata, Psalm 118(117):27: “Instruite sollemnitatem in ramis condensis usque ad cornua altaris”."
+    },
+    {
+      "book": "PSA",
+      "where": "119:9",
+      "type": "nova-vulgata",
+      "find": "keep his way pure",
+      "replace": "cleanse his way",
+      "reason": "Nova Vulgata, Psalm 119(118):9: “In quo mundabit adulescentior viam suam?”."
+    },
+    {
+      "book": "PSA",
+      "where": "119:23",
+      "type": "nova-vulgata",
+      "find": "sit and slander me",
+      "replace": "sit and speak against me",
+      "reason": "Nova Vulgata, Psalm 119(118):23: “Etsi principes sedent et adversum me loquuntur”."
+    },
+    {
+      "book": "PSA",
+      "where": "119:28",
+      "type": "nova-vulgata",
+      "find": "strengthen me",
+      "replace": "raise me up",
+      "reason": "Nova Vulgata, Psalm 119(118):28: “erige me secundum verbum tuum”."
+    },
+    {
+      "book": "PSA",
+      "where": "119:28",
+      "type": "nova-vulgata",
+      "find": "is weary",
+      "replace": "weeps",
+      "reason": "Nova Vulgata, Psalm 119(118):28: “Lacrimata est anima mea prae maerore”."
+    },
+    {
+      "book": "PSA",
+      "where": "119:117",
+      "type": "nova-vulgata",
+      "find": "have respect for",
+      "replace": "delight in",
+      "reason": "Nova Vulgata, Psalm 119(118):117: “et delectabor in iustificationibus tuis semper”."
+    },
+    {
+      "book": "PSA",
+      "where": "119:118",
+      "type": "nova-vulgata",
+      "find": "their deceit is in vain",
+      "replace": "their thought is a lie",
+      "reason": "Nova Vulgata, Psalm 119(118):118: “quia mendacium cogitatio eorum”."
+    },
+    {
+      "book": "PSA",
+      "where": "119:158",
+      "type": "nova-vulgata",
+      "find": "faithless",
+      "replace": "transgressors",
+      "reason": "Nova Vulgata, Psalm 119(118):158: “Vidi praevaricantes, et taeduit me”."
+    },
+    {
+      "book": "PSA",
+      "where": "119:160",
+      "type": "nova-vulgata",
+      "find": "All of your words are truth.",
+      "replace": "The beginning of your words is truth.",
+      "reason": "Nova Vulgata, Psalm 119(118):160: “Principium verborum tuorum veritas”."
+    },
+    {
+      "book": "PSA",
+      "where": "120:7",
+      "type": "nova-vulgata",
+      "find": "are for war",
+      "replace": "attack me",
+      "reason": "Nova Vulgata, Psalm 120(119):7: “Ego eram pacificus; cum loquebar, illi impugnabant me”."
+    },
+    {
+      "book": "PSA",
+      "where": "123:4",
+      "type": "nova-vulgata",
+      "find": "those who are at ease",
+      "replace": "the prosperous",
+      "reason": "Nova Vulgata, Psalm 123(122):4: “quia multum repleta est anima nostra derisione abundantium”."
+    },
+    {
+      "book": "PSA",
+      "where": "124:5",
+      "type": "nova-vulgata",
+      "find": "proud",
+      "replace": "swelling",
+      "reason": "Nova Vulgata, Psalm 124(123):5: “forsitan pertransissent animam nostram aquae intumescentes”."
+    },
+    {
+      "book": "PSA",
+      "where": "132:1",
+      "type": "nova-vulgata",
+      "find": "affliction",
+      "replace": "meekness",
+      "reason": "Nova Vulgata, Psalm 132(131):1: “Memento, Domine, David et omnis mansuetudinis eius”."
+    },
+    {
+      "book": "PSA",
+      "where": "132:18",
+      "type": "nova-vulgata",
+      "find": "crown will shine",
+      "replace": "diadem will blossom",
+      "reason": "Nova Vulgata, Psalm 132(131):18: “super ipsum autem efflorebit diadema eius”."
+    },
+    {
+      "book": "PSA",
+      "where": "137:8",
+      "type": "nova-vulgata",
+      "find": "doomed to destruction",
+      "replace": "you devastator",
+      "reason": "Nova Vulgata, Psalm 137(136):8: “Filia Babylonis devastans”."
+    },
+    {
+      "book": "PSA",
+      "where": "138:2",
+      "type": "nova-vulgata",
+      "find": "you have exalted your Name and your Word above all",
+      "replace": "you have exalted your Word above every name",
+      "reason": "Nova Vulgata, Psalm 138(137):2: “quoniam magnificasti super omne nomen eloquium tuum”."
+    },
+    {
+      "book": "PSA",
+      "where": "139:20",
+      "type": "nova-vulgata",
+      "find": "take your name in vain",
+      "replace": "lift themselves up against you in vain",
+      "reason": "Nova Vulgata, Psalm 139(138):20: “exaltantur in vanum contra te”."
+    },
+    {
+      "book": "PSA",
+      "where": "139:24",
+      "type": "nova-vulgata",
+      "find": "wicked",
+      "replace": "vain",
+      "reason": "Nova Vulgata, Psalm 139(138):24: “et vide, si via vanitatis in me est”."
+    },
+    {
+      "book": "PSA",
+      "where": "141:7",
+      "type": "nova-vulgata",
+      "find": "our bones",
+      "replace": "their bones",
+      "reason": "Nova Vulgata, Psalm 141(140):7: “dissipata sunt ossa eorum ad fauces inferni”."
+    },
+    {
+      "book": "PSA",
+      "where": "144:1",
+      "type": "nova-vulgata",
+      "find": "rock",
+      "replace": "helper",
+      "reason": "Nova Vulgata, Psalm 144(143):1: “Benedictus Dominus, adiutor meus”."
+    },
+    {
+      "book": "PSA",
+      "where": "144:4",
+      "type": "nova-vulgata",
+      "find": "a breath",
+      "replace": "vanity",
+      "reason": "Nova Vulgata, Psalm 144(143):4: “Homo vanitati similis factus est”."
+    },
+    {
+      "book": "PSA",
+      "where": "144:6",
+      "type": "nova-vulgata",
+      "find": "rout",
+      "replace": "confound",
+      "reason": "Nova Vulgata, Psalm 144(143):6: “emitte sagittas tuas et conturba eos”."
+    },
+    {
+      "book": "PSA",
+      "where": "144:10",
+      "type": "nova-vulgata",
+      "find": "the deadly sword",
+      "replace": "the evil sword",
+      "reason": "Nova Vulgata, Psalm 144(143):10: “qui redimis David servum tuum de gladio maligno”."
+    },
+    {
+      "book": "PSA",
+      "where": "144:13",
+      "type": "nova-vulgata",
+      "find": "Our sheep produce thousands and ten thousands in our fields.",
+      "replace": "Our sheep are countless in the thousands in our fields.",
+      "reason": "Nova Vulgata, Psalm 144(143):13: “oves nostrae in milibus innumerabiles in campis nostris”."
+    },
+    {
+      "book": "PSA",
+      "where": "145:5",
+      "type": "nova-vulgata",
+      "find": "I will meditate on the glorious majesty of your honor,",
+      "replace": "They will speak of the glorious majesty of your honor,",
+      "reason": "Nova Vulgata, Psalm 145(144):5: “Magnificentiam gloriae maiestatis tuae loquentur et mirabilia tua enarrabunt”."
+    },
+    {
+      "book": "PSA",
+      "where": "145:6",
+      "type": "nova-vulgata",
+      "find": "I will declare",
+      "replace": "They will declare",
+      "reason": "Nova Vulgata, Psalm 145(144):6: “et magnitudinem tuam narrabunt”."
+    },
+    {
+      "book": "PSA",
+      "where": "145:13",
+      "type": "nova-vulgata",
+      "find": "loving",
+      "replace": "holy",
+      "reason": "Nova Vulgata, Psalm 145(144):13: “Fidelis Dominus in omnibus verbis suis et sanctus in omnibus operibus suis”."
+    },
+    {
+      "book": "PSA",
+      "where": "147:18",
+      "type": "nova-vulgata",
+      "find": "He causes his wind to blow, and the waters flow.",
+      "replace": "His wind will blow, and the waters will flow.",
+      "reason": "Nova Vulgata, Psalm 147:18: “flabit spiritus eius, et fluent aquae”."
+    },
+    {
+      "book": "PSA",
+      "where": "81:2",
+      "type": "nova-vulgata",
+      "find": "Raise a song",
+      "replace": "Take up a psalm",
+      "reason": "Nova Vulgata, Psalm 81(80):3: “Sumite psalmum”."
+    },
+    {
+      "book": "PSA",
+      "where": "106:19",
+      "type": "nova-vulgata",
+      "find": "molten image",
+      "replace": "carved image",
+      "reason": "Nova Vulgata, Psalm 106(105):19: “et adoraverunt sculptile”."
+    },
+    {
+      "book": "PSA",
+      "where": "84:6",
+      "type": "nova-vulgata",
+      "find": "the valley of Weeping",
+      "replace": "the thirsty valley",
+      "reason": "Nova Vulgata, Psalm 84(83):7: “Transeuntes per vallem sitientem”."
+    },
+    {
+      "book": "PSA",
+      "where": "89:22",
+      "type": "nova-vulgata",
+      "find": "No enemy will tax him.",
+      "replace": "The enemy will have no advantage over him.",
+      "reason": "Nova Vulgata, Psalm 89(88):23: “Nihil proficiet inimicus in eo”."
+    },
+    {
+      "book": "PSA",
+      "where": "68:18",
+      "type": "nova-vulgata",
+      "find": "yes, among the rebellious also, that the LORD",
+      "replace": "that even the rebellious may dwell with the LORD",
+      "reason": "Nova Vulgata, Psalm 68(67):19: “accepisti in donum homines, ut etiam rebelles habitent apud Dominum Deum”."
+    },
+    {
+      "book": "PSA",
+      "where": "68:18",
+      "type": "nova-vulgata",
+      "find": "God might dwell there.",
+      "replace": "God.",
+      "reason": "Nova Vulgata, Psalm 68(67):19: “ut etiam rebelles habitent apud Dominum Deum”."
+    },
+    {
+      "book": "PSA",
+      "where": "7:14",
+      "type": "nova-vulgata",
+      "find": "and brought out falsehood.",
+      "replace": "and brought forth iniquity.",
+      "reason": "Nova Vulgata, Psalm 7:15: “et peperit iniquitatem”."
+    },
+    {
+      "book": "PSA",
+      "where": "126:1",
+      "type": "nova-vulgata",
+      "find": "brought back those who returned to Zion",
+      "replace": "restored the fortunes of Zion",
+      "reason": "Nova Vulgata, Psalm 126(125):1: “In convertendo Dominus captivitatem Sion”."
+    },
+    {
+      "book": "PSA",
+      "where": "12:5",
+      "type": "nova-vulgata",
+      "find": "I will set him in safety from those who malign him.",
+      "replace": "I will place in safety him whom they despise.",
+      "reason": "Nova Vulgata, Psalm 12(11):6: “ponam in salutari illum, quem despiciunt”."
+    },
+    {
+      "book": "PSA",
+      "where": "144:14",
+      "type": "nova-vulgata",
+      "find": "There is no breaking in, and no going away,",
+      "replace": "There is no breach in the wall, and no going out,",
+      "reason": "Nova Vulgata, Psalm 144(143):14: “Non est ruina maceriae neque egressus”."
+    },
+    {
+      "book": "PSA",
+      "where": "52:7",
+      "type": "nova-vulgata",
+      "find": "and strengthened himself in his wickedness.",
+      "replace": "and prevailed in his treachery.",
+      "reason": "Nova Vulgata, Psalm 52(51):9: “et praevaluit in insidiis suis”."
+    },
+    {
+      "book": "PSA",
+      "where": "64:6",
+      "type": "nova-vulgata",
+      "find": "They plot injustice, saying, “We have made a perfect plan!”",
+      "replace": "They devised wickedness; they completed the plans they had devised.",
+      "reason": "Nova Vulgata, Psalm 64(63):7: “Excogitaverunt iniqua, perfecerunt excogitata consilia”."
+    },
+    {
+      "book": "PSA",
+      "where": "73:7",
+      "type": "nova-vulgata",
+      "find": "Their minds pass the limits of conceit.",
+      "replace": "The thoughts of their heart burst forth.",
+      "reason": "Nova Vulgata, Psalm 73(72):7: “erumpunt cogitationes cordis”."
+    },
+    {
+      "book": "PSA",
+      "where": "94:20",
+      "type": "nova-vulgata",
+      "find": "which brings about mischief by statute?",
+      "replace": "which frames trouble against the commandment?",
+      "reason": "Nova Vulgata, Psalm 94(93):20: “quae fingit molestiam contra praeceptum?”."
+    },
+    {
+      "book": "PSA",
+      "where": "89:15",
+      "type": "nova-vulgata",
+      "find": "who learn to acclaim you",
+      "replace": "who know the joyful shout",
+      "reason": "Nova Vulgata, Psalm 89(88):16: “Beatus populus, qui scit iubilationem”."
+    },
+    {
+      "book": "PSA",
+      "where": "81:8",
+      "type": "nova-vulgata",
+      "find": "I will testify to you",
+      "replace": "I will solemnly warn you",
+      "reason": "Nova Vulgata, Psalm 81(80):9: “Audi, populus meus, et contestabor te”."
+    },
+    {
+      "book": "PSA",
+      "where": "10:10",
+      "type": "nova-vulgata",
+      "find": "The helpless are crushed.",
+      "replace": "He rushes in and crouches down,",
+      "reason": "Nova Vulgata, Psalm 10(9B):10: “Irruit et inclinat se”."
+    },
+    {
+      "book": "PSA",
+      "where": "10:10",
+      "type": "nova-vulgata",
+      "find": "They collapse.",
+      "replace": "",
+      "reason": "Nova Vulgata, Psalm 10(9B):10: “Irruit et inclinat se, et miseri cadunt…” — the NV has no separate clause here; its content is merged into “inclinat se”."
+    },
+    {
+      "book": "PSA",
+      "where": "10:10",
+      "type": "nova-vulgata",
+      "find": "They fall under his strength.",
+      "replace": "and the helpless fall by the strength of his arms.",
+      "reason": "Nova Vulgata, Psalm 10(9B):10: “et miseri cadunt in fortitudine brachiorum eius”."
+    },
+    {
+      "book": "PSA",
+      "where": "11:5",
+      "type": "nova-vulgata",
+      "find": "the righteous,",
+      "replace": "the righteous and the wicked,",
+      "reason": "Nova Vulgata, Psalm 11(10):5: “Dominus interrogat iustum et impium”."
+    },
+    {
+      "book": "PSA",
+      "where": "12:7",
+      "type": "nova-vulgata",
+      "find": "You will preserve them from this generation forever.",
+      "replace": "You will guard us from this generation forever.",
+      "reason": "Nova Vulgata, Psalm 12(11):8: “et custodies nos a generatione hac in aeternum”."
+    },
+    {
+      "book": "PSA",
+      "where": "18:38",
+      "type": "nova-vulgata",
+      "find": "They shall fall under my feet.",
+      "replace": "They fell under my feet.",
+      "reason": "Nova Vulgata, Psalm 18(17):39: “cadebant subtus pedes meos”."
+    },
+    {
+      "book": "PSA",
+      "where": "18:44",
+      "type": "nova-vulgata",
+      "find": "As soon as they hear of me they shall obey me.",
+      "replace": "At the hearing of the ear they obeyed me.",
+      "reason": "Nova Vulgata, Psalm 18(17):45: “in auditu auris oboedivit mihi”."
+    },
+    {
+      "book": "PSA",
+      "where": "20:9",
+      "type": "nova-vulgata",
+      "find": "Save, LORD!",
+      "replace": "LORD, save the king!",
+      "reason": "Nova Vulgata, Psalm 20(19):10: “Domine, salvum fac regem”."
+    },
+    {
+      "book": "PSA",
+      "where": "55:6",
+      "type": "nova-vulgata",
+      "find": "Then I would fly away, and be at rest.",
+      "replace": "Then I will fly away, and be at rest.",
+      "reason": "Nova Vulgata, Psalm 55(54):7: “et volabo et requiescam”."
+    },
+    {
+      "book": "PSA",
+      "where": "55:7",
+      "type": "nova-vulgata",
+      "find": "then I would wander far off.",
+      "replace": "then I will flee far away.",
+      "reason": "Nova Vulgata, Psalm 55(54):8: “Ecce elongabo fugiens”."
+    },
+    {
+      "book": "PSA",
+      "where": "55:7",
+      "type": "nova-vulgata",
+      "find": "I would lodge in the wilderness.",
+      "replace": "I will lodge in the wilderness.",
+      "reason": "Nova Vulgata, Psalm 55(54):8: “et manebo in solitudine”."
+    },
+    {
+      "book": "PSA",
+      "where": "89:2",
+      "type": "nova-vulgata",
+      "find": "You established the heavens.",
+      "replace": "",
+      "reason": "Nova Vulgata, Psalm 89(88):3 — the NV has no separate clause here; the verse continues “in caelis firmabitur veritas tua”."
+    },
+    {
+      "book": "PSA",
+      "where": "89:2",
+      "type": "nova-vulgata",
+      "find": "Your faithfulness is in them.”",
+      "replace": "Your truth will be established in the heavens.",
+      "reason": "Nova Vulgata, Psalm 89(88):3: “in caelis firmabitur veritas tua”."
+    },
+    {
+      "book": "PSA",
+      "where": "106:4",
+      "type": "nova-vulgata",
+      "find": "Visit me with your salvation,",
+      "replace": "Visit us with your salvation,",
+      "reason": "Nova Vulgata, Psalm 106(105):4: “visita nos in salutari tuo”."
+    },
+    {
+      "book": "PSA",
+      "where": "106:5",
+      "type": "nova-vulgata",
+      "find": "that I may rejoice",
+      "replace": "that we may rejoice",
+      "reason": "Nova Vulgata, Psalm 106(105):5: “ut laetemur in laetitia gentis tuae”."
+    },
+    {
+      "book": "PSA",
+      "where": "106:5",
+      "type": "nova-vulgata",
+      "find": "that I may glory",
+      "replace": "that we may glory",
+      "reason": "Nova Vulgata, Psalm 106(105):5: “ut gloriemur cum hereditate tua”."
+    },
+    {
+      "book": "PSA",
+      "where": "145:5",
+      "type": "nova-vulgata",
+      "find": "on your wondrous works.",
+      "replace": "and recount your wondrous works.",
+      "reason": "Nova Vulgata, Psalm 145(144):5: “et mirabilia tua enarrabunt”."
+    },
+    {
+      "book": "1CH",
+      "where": "6:59",
+      "type": "nova-vulgata",
+      "find": "Ashan with its pasture lands,",
+      "insert": "Juttah with its pasture lands,",
+      "reason": "Nova Vulgata, 1 Chronicles 6:44 (numbered differently there): “Asan quoque et Iutta et Bethsames et suburbana earum”."
+    },
+    {
+      "book": "1CH",
+      "where": "6:61",
+      "type": "nova-vulgata",
+      "find": "out of the family of the tribe, out of the half-tribe, the half of Manasseh, ten cities.",
+      "replace": "out of the tribe of Ephraim, out of the tribe of Dan, and out of the half-tribe of Manasseh, ten cities.",
+      "reason": "Nova Vulgata, 1 Chronicles 6:46 (numbered differently there): “dederunt ex tribu Ephraim et ex tribu Dan et ex dimidia tribu Manasse in possessionem urbes decem”."
+    },
+    {
+      "book": "1CH",
+      "where": "13:9",
+      "type": "nova-vulgata",
+      "find": "stumbled",
+      "replace": "were frisking and broke loose",
+      "reason": "Nova Vulgata, 1 Chronicles 13:9: “boves quippe lascivientes proruperunt”."
+    },
+    {
+      "book": "1CH",
+      "where": "13:11",
+      "type": "nova-vulgata",
+      "find": "displeased",
+      "replace": "grieved",
+      "reason": "Nova Vulgata, 1 Chronicles 13:11: “Contristatusque est David, eo quod dirupisset Dominus Ozam”."
+    },
+    {
+      "book": "1CH",
+      "where": "15:18",
+      "type": "nova-vulgata",
+      "find": "Ben, Jaaziel",
+      "replace": "Bani, Jaaziel",
+      "reason": "Nova Vulgata, 1 Chronicles 15:18: “Zachariam et Bani et Iaziel et Semiramoth”."
+    },
+    {
+      "book": "1CH",
+      "where": "15:19",
+      "type": "nova-vulgata",
+      "find": "cymbals of bronze to sound aloud",
+      "replace": "well-sounding cymbals of bronze",
+      "reason": "Nova Vulgata, 1 Chronicles 15:19: “Porro cantores Heman, Asaph et Ethan in cymbalis aeneis bene sonantibus”."
+    },
+    {
+      "book": "1CH",
+      "where": "15:22",
+      "type": "nova-vulgata",
+      "find": "chief of the Levites, was over the singing.",
+      "replace": "chief of the Levites who carried the ark, was in charge of the carrying.",
+      "reason": "Nova Vulgata, 1 Chronicles 15:22: “Chonenias autem princeps Levitarum portantium arcam praeerat ad portandum”."
+    },
+    {
+      "book": "1CH",
+      "where": "15:22",
+      "type": "nova-vulgata",
+      "find": "He taught the singers, because he was skillful.",
+      "replace": "For he was very skilled.",
+      "reason": "Nova Vulgata, 1 Chronicles 15:22: “erat quippe valde sapiens”."
+    },
+    {
+      "book": "1CH",
+      "where": "15:27",
+      "type": "nova-vulgata",
+      "find": "the choir master with the singers",
+      "replace": "the master of the carrying of the ark",
+      "reason": "Nova Vulgata, 1 Chronicles 15:27: “et Chonenias princeps pro portanda arca”."
+    },
+    {
+      "book": "1CH",
+      "where": "16:3",
+      "type": "nova-vulgata",
+      "find": "portion of meat",
+      "replace": "date cake",
+      "reason": "Nova Vulgata, 1 Chronicles 16:3: “tortam panis et laganum palmarum et palatham”."
+    },
+    {
+      "book": "1CH",
+      "where": "16:4",
+      "type": "nova-vulgata",
+      "find": "to thank",
+      "replace": "to glorify",
+      "reason": "Nova Vulgata, 1 Chronicles 16:4: “qui recordarentur operum eius et glorificarent atque laudarent Dominum, Deum Israel”."
+    },
+    {
+      "book": "1CH",
+      "where": "16:26",
+      "type": "nova-vulgata",
+      "find": "idols",
+      "replace": "nothing",
+      "reason": "Nova Vulgata, 1 Chronicles 16:26: “omnes enim dii populorum inania, Dominus autem caelos fecit”."
+    },
+    {
+      "book": "1CH",
+      "where": "17:1",
+      "type": "nova-vulgata",
+      "find": "in a tent",
+      "replace": "under skins",
+      "reason": "Nova Vulgata, 1 Chronicles 17:1: “arca autem foederis Domini sub pellibus est”."
+    },
+    {
+      "book": "1CH",
+      "where": "17:21",
+      "type": "nova-vulgata",
+      "find": "a name by great and awesome things",
+      "replace": "a name great and fearful",
+      "reason": "Nova Vulgata, 1 Chronicles 17:21: “ut faceres tibi nomen magnum et terribile”."
+    },
+    {
+      "book": "1CH",
+      "where": "20:2",
+      "type": "nova-vulgata",
+      "find": "their king",
+      "replace": "Milcom",
+      "reason": "Nova Vulgata, 1 Chronicles 20:2: “Tulit autem David coronam Melchom de capite eius”."
+    },
+    {
+      "book": "1CH",
+      "where": "20:3",
+      "type": "nova-vulgata",
+      "find": "cut with saws",
+      "replace": "labor at the stone-quarries",
+      "reason": "Nova Vulgata, 1 Chronicles 20:3: “condemnavit ad operam lapicidinarum et ad secures et dolabras ferreas”."
+    },
+    {
+      "book": "1CH",
+      "where": "23:29",
+      "type": "nova-vulgata",
+      "find": "that which is soaked",
+      "replace": "that which is roasted",
+      "reason": "Nova Vulgata, 1 Chronicles 23:29: “et pro sartagine et ad torrendum”."
+    },
+    {
+      "book": "1CH",
+      "where": "26:20",
+      "type": "nova-vulgata",
+      "find": "Of the Levites, Ahijah was",
+      "replace": "The Levites, their brothers, were",
+      "reason": "Nova Vulgata, 1 Chronicles 26:20: “Porro Levitae fratres eorum super thesauros domus Dei ac thesauros rerum consecratarum”."
+    },
+    {
+      "book": "1CH",
+      "where": "27:28",
+      "type": "nova-vulgata",
+      "find": "sycamore trees",
+      "replace": "fig trees",
+      "reason": "Nova Vulgata, 1 Chronicles 27:28: “Nam super oliveta et ficeta, quae erant in Sephela”."
+    },
+    {
+      "book": "1CH",
+      "where": "27:32",
+      "type": "nova-vulgata",
+      "find": "understanding, and a scribe",
+      "replace": "prudence and learning",
+      "reason": "Nova Vulgata, 1 Chronicles 27:32: “Ionathan autem patruus David consiliarius, vir prudens et litteratus”."
+    },
+    {
+      "book": "1CH",
+      "where": "29:11",
+      "type": "nova-vulgata",
+      "find": "victory",
+      "replace": "splendor",
+      "reason": "Nova Vulgata, 1 Chronicles 29:11: “Tua est, Domine, magnificentia et potentia, gloria, splendor atque maiestas”."
+    },
+    {
+      "book": "1CH",
+      "where": "24:6",
+      "type": "nova-vulgata",
+      "find": "Shemaiah the son of Nethanel the scribe, who was of the Levites,",
+      "replace": "Shemaiah the son of Nethanel, the Levite scribe,",
+      "reason": "Nova Vulgata, 1 Chronicles 24:6: “Semeias filius Nathanael scriba Levites”."
+    },
+    {
+      "book": "1CH",
+      "where": "29:1",
+      "type": "nova-vulgata",
+      "find": "the palace",
+      "replace": "the dwelling",
+      "reason": "Nova Vulgata, 1 Chronicles 29:1: “neque enim homini praeparatur habitatio sed Domino Deo”."
+    },
+    {
+      "book": "1KI",
+      "where": "8:13",
+      "type": "nova-vulgata",
+      "find": "a place for you to dwell in",
+      "replace": "a settled throne for you",
+      "reason": "Nova Vulgata, 1 Kings 8:13: “Aedificans aedificavi domum in habitaculum tuum, firmissimum solium tuum in sempiternum”."
+    },
+    {
+      "book": "1KI",
+      "where": "11:7",
+      "type": "nova-vulgata",
+      "find": "Molech",
+      "replace": "Milcom",
+      "reason": "Nova Vulgata, 1 Kings 11:7: “et Melchom idolo filiorum Ammon”."
+    },
+    {
+      "book": "1SA",
+      "where": "6:19",
+      "type": "nova-vulgata",
+      "find": "He struck of the men of Beth Shemesh, because they had looked into the LORD’s ark, he struck fifty thousand seventy of the men.",
+      "replace": "The sons of Jechoniah did not rejoice among the men of Beth Shemesh, because they had seen the LORD’s ark; and the LORD struck seventy of the men.",
+      "reason": "Nova Vulgata, 1 Samuel 6:19: “Filii autem Iechoniae non sunt gavisi super viros Bethsamites, quia viderant arcam Domini; et percussit Dominus de populo septuaginta viros”."
+    },
+    {
+      "book": "1SA",
+      "where": "9:2",
+      "type": "nova-vulgata",
+      "find": "more handsome",
+      "replace": "better",
+      "reason": "Nova Vulgata, 1 Samuel 9:2: “non erat vir de filiis Israel melior illo; ab umero et sursum eminebat”."
+    },
+    {
+      "book": "1SA",
+      "where": "9:2",
+      "type": "nova-vulgata",
+      "find": "an impressive young man",
+      "replace": "a chosen and good man",
+      "reason": "Nova Vulgata, 1 Samuel 9:2: “electus et bonus, et non erat vir de filiis Israel melior illo; ab ume”."
+    },
+    {
+      "book": "1SA",
+      "where": "10:19",
+      "type": "nova-vulgata",
+      "find": "thousands",
+      "replace": "families",
+      "reason": "Nova Vulgata, 1 Samuel 10:19: “per tribus vestras et per familias ””."
+    },
+    {
+      "book": "1SA",
+      "where": "12:7",
+      "type": "nova-vulgata",
+      "find": "righteous acts of the LORD, which he did",
+      "replace": "mercies of the LORD, which he showed",
+      "reason": "Nova Vulgata, 1 Samuel 12:7: “misericordiis Domini, quas fecit vobiscum et cum patribus vestris: 8 q”."
+    },
+    {
+      "book": "1SA",
+      "where": "13:5",
+      "type": "nova-vulgata",
+      "find": "thirty thousand",
+      "replace": "three thousand",
+      "reason": "Nova Vulgata, 1 Samuel 13:5: “tria milia de Israel: et erant cum Saul duo milia in Machmas et in mon”."
+    },
+    {
+      "book": "1SA",
+      "where": "15:32",
+      "type": "nova-vulgata",
+      "find": "cheerfully",
+      "replace": "trembling",
+      "reason": "Nova Vulgata, 1 Samuel 15:32: “tremens”."
+    },
+    {
+      "book": "1SA",
+      "where": "23:23",
+      "type": "nova-vulgata",
+      "find": "thousands",
+      "replace": "regions",
+      "reason": "Nova Vulgata, 1 Samuel 23:23: “scrutabor eum in cunctis regionibus Iudae”."
+    },
+    {
+      "book": "1SA",
+      "where": "27:8",
+      "type": "nova-vulgata",
+      "find": "who were of old",
+      "replace": "that stretches from Telem",
+      "reason": "Nova Vulgata, 1 Samuel 27:8: “quae est a Telem in via Sur”."
+    },
+    {
+      "book": "1SA",
+      "where": "18:14",
+      "type": "nova-vulgata",
+      "find": "behaved himself wisely",
+      "replace": "prospered",
+      "reason": "Nova Vulgata, 1 Samuel 18:14: “In omnibus quoque viis suis David prospere agebat”."
+    },
+    {
+      "book": "1SA",
+      "where": "18:15",
+      "type": "nova-vulgata",
+      "find": "behaved himself very wisely",
+      "replace": "prospered exceedingly",
+      "reason": "Nova Vulgata, 1 Samuel 18:15: “Vidit itaque Saul quod prospere ageret nimis”."
+    },
+    {
+      "book": "1SA",
+      "where": "18:30",
+      "type": "nova-vulgata",
+      "find": "behaved himself more wisely",
+      "replace": "prospered more",
+      "reason": "Nova Vulgata, 1 Samuel 18:30: “prospere agebat David magis quam omnes servi Saul”."
+    },
+    {
+      "book": "2CH",
+      "where": "3:1",
+      "type": "nova-vulgata",
+      "find": "where the LORD appeared to David his father",
+      "replace": "which had been designated by David his father",
+      "reason": "Nova Vulgata, 2 Chronicles 3:1: “in monte Moria, qui demonstratus fuerat a David patre eius”."
+    },
+    {
+      "book": "2CH",
+      "where": "3:5",
+      "type": "nova-vulgata",
+      "find": "chains",
+      "replace": "interlocking chainwork",
+      "reason": "Nova Vulgata, 2 Chronicles 3:5: “scalpsitque in eis palmas et quasi catenulas se invicem complectentes”."
+    },
+    {
+      "book": "2CH",
+      "where": "3:6",
+      "type": "nova-vulgata",
+      "find": "He decorated the house with precious stones for beauty.",
+      "replace": "He paved the floor of the temple with most precious marble in great beauty.",
+      "reason": "Nova Vulgata, 2 Chronicles 3:6: “Stravit quoque pavimentum templi pretiosissimo marmore decore multo”."
+    },
+    {
+      "book": "2CH",
+      "where": "4:12",
+      "type": "nova-vulgata",
+      "find": "bowls",
+      "replace": "globes",
+      "occurrence": 1,
+      "reason": "Nova Vulgata, 2 Chronicles 4:12: “columnas duas et globos et capitella super caput columnarum duarum”."
+    },
+    {
+      "book": "2CH",
+      "where": "4:12",
+      "type": "nova-vulgata",
+      "find": "bowls",
+      "replace": "globes",
+      "occurrence": 2,
+      "reason": "Nova Vulgata, 2 Chronicles 4:12: “serta duo, quae tegerent globos capitellorum”."
+    },
+    {
+      "book": "2CH",
+      "where": "5:5",
+      "type": "nova-vulgata",
+      "find": "all the holy vessels that were in the Tent",
+      "replace": "all the furnishings of the Tent; moreover, all the holy vessels that were in the tabernacle",
+      "reason": "Nova Vulgata, 2 Chronicles 5:5: “et omnem paraturam tabernaculi. Porro omnia vasa sanctuarii, quae erant in tabernaculo, portaverunt sacerdotes levitici generis”."
+    },
+    {
+      "book": "2CH",
+      "where": "5:13",
+      "type": "nova-vulgata",
+      "find": "For he is good",
+      "replace": "Give thanks to the LORD, for he is good",
+      "reason": "Nova Vulgata, 2 Chronicles 5:13: “Confitemini Domino quoniam bonus, quoniam in aeternum misericordia eius”."
+    },
+    {
+      "book": "2CH",
+      "where": "7:6",
+      "type": "nova-vulgata",
+      "find": "to give thanks to the LORD",
+      "replace": "to praise the LORD",
+      "reason": "Nova Vulgata, 2 Chronicles 7:6: “quae fecit David rex ad laudandum Dominum”."
+    },
+    {
+      "book": "2CH",
+      "where": "9:4",
+      "type": "nova-vulgata",
+      "find": "no more spirit in her",
+      "replace": "no more spirit in her because of amazement",
+      "reason": "Nova Vulgata, 2 Chronicles 9:4: “non erat prae stupore ultra in ea spiritus”."
+    },
+    {
+      "book": "2CH",
+      "where": "9:11",
+      "type": "nova-vulgata",
+      "find": "terraces",
+      "replace": "steps",
+      "reason": "Nova Vulgata, 2 Chronicles 9:11: “et fecit rex de lignis thyinis gradus in domo Domini et in domo regia”."
+    },
+    {
+      "book": "2CH",
+      "where": "9:11",
+      "type": "nova-vulgata",
+      "find": "There were none like these seen",
+      "replace": "There was no such wood seen",
+      "reason": "Nova Vulgata, 2 Chronicles 9:11: “Numquam visa sunt in terra Iudae ligna talia”."
+    },
+    {
+      "book": "2CH",
+      "where": "14:11",
+      "type": "nova-vulgata",
+      "find": "there is no one besides you to help, between the mighty and him who has no strength",
+      "replace": "there is no difference with you, whether you help with few or with many",
+      "reason": "Nova Vulgata, 2 Chronicles 14:10: “Domine, non est apud te ulla distantia, utrum paucis auxilieris an pluribus”. (The NV prints this verse as 14:10; WEBC numbers it 14:11.)"
+    },
+    {
+      "book": "2CH",
+      "where": "19:11",
+      "type": "nova-vulgata",
+      "find": "officers",
+      "replace": "scribes",
+      "reason": "Nova Vulgata, 2 Chronicles 19:11: “habetisque Levitas coram vobis ut scribas”."
+    },
+    {
+      "book": "2CH",
+      "where": "24:27",
+      "type": "nova-vulgata",
+      "find": "burdens laid on him",
+      "replace": "tribute imposed under him",
+      "reason": "Nova Vulgata, 2 Chronicles 24:27: “de summa tributi, quod impositum fuerat sub eo”."
+    },
+    {
+      "book": "2CH",
+      "where": "25:8",
+      "type": "nova-vulgata",
+      "find": "But if you will go, take action, and be strong for the battle. God will overthrow you before the enemy",
+      "replace": "But if you think that battles rest on the strength of the army, God will overthrow you before the enemy",
+      "reason": "Nova Vulgata, 2 Chronicles 25:8: “Quod si putas in robore exercitus bella consistere, superari te faciet Deus ab hostibus”."
+    },
+    {
+      "book": "2CH",
+      "where": "31:15",
+      "type": "nova-vulgata",
+      "find": "Miniamin",
+      "replace": "Benjamin",
+      "reason": "Nova Vulgata, 2 Chronicles 31:15: “Et sub cura eius Eden et Beniamin, Iesua et Semeias”."
+    },
+    {
+      "book": "2KI",
+      "where": "6:8",
+      "type": "nova-vulgata",
+      "find": "My camp will be in such and such a place.",
+      "replace": "Let us set an ambush in such and such a place.",
+      "reason": "Nova Vulgata, 2 Kings 6:8: “In loco illo et illo ponamus insidias”."
+    },
+    {
+      "book": "2KI",
+      "where": "6:9",
+      "type": "nova-vulgata",
+      "find": "coming down there",
+      "replace": "in ambush there",
+      "reason": "Nova Vulgata, 2 Kings 6:9: “quia ibi Syri in insidiis sunt”."
+    },
+    {
+      "book": "2KI",
+      "where": "9:8",
+      "type": "nova-vulgata",
+      "find": "both him who is shut up and him who is left at large",
+      "replace": "both child and adult",
+      "reason": "Nova Vulgata, 2 Kings 9:8: “et impuberem et puberem in Israel”."
+    },
+    {
+      "book": "2KI",
+      "where": "11:6",
+      "type": "nova-vulgata",
+      "find": "the watch of the house, and be a barrier",
+      "replace": "the watch of the house by turns",
+      "reason": "Nova Vulgata, 2 Kings 11:6: “et custodietis excubitum domus per vices”."
+    },
+    {
+      "book": "2KI",
+      "where": "11:14",
+      "type": "nova-vulgata",
+      "find": "by the pillar",
+      "replace": "on the platform",
+      "reason": "Nova Vulgata, 2 Kings 11:14: “vidit regem stantem super tribunal iuxta morem”."
+    },
+    {
+      "book": "2KI",
+      "where": "13:20",
+      "type": "nova-vulgata",
+      "find": "at the coming in of the year",
+      "replace": "in the same year",
+      "reason": "Nova Vulgata, 2 Kings 13:20: “Latrunculi autem de Moab venerunt in terra in ipso anno”."
+    },
+    {
+      "book": "2KI",
+      "where": "16:18",
+      "type": "nova-vulgata",
+      "find": "removed",
+      "replace": "changed",
+      "reason": "Nova Vulgata, 2 Kings 16:18: “et ingressum regis exterius convertit in templo Domini”."
+    },
+    {
+      "book": "2KI",
+      "where": "23:3",
+      "type": "nova-vulgata",
+      "find": "by the pillar",
+      "replace": "on the platform",
+      "reason": "Nova Vulgata, 2 Kings 23:3: “Stetitque rex super gradum suum”."
+    },
+    {
+      "book": "2KI",
+      "where": "25:17",
+      "type": "nova-vulgata",
+      "find": "three cubits",
+      "replace": "five cubits",
+      "reason": "Nova Vulgata, 2 Kings 25:17: “capitellum aereum super se altitudinis quinque cubitorum”."
+    },
+    {
+      "book": "2SA",
+      "where": "1:21",
+      "type": "nova-vulgata",
+      "find": "the shield of Saul was not anointed",
+      "replace": "the shield of Saul, as though he had not been anointed",
+      "reason": "Nova Vulgata, 2 Samuel 1:21: “clipeus Saul, quasi non esset unctus oleo”."
+    },
+    {
+      "book": "2SA",
+      "where": "6:4",
+      "type": "nova-vulgata",
+      "find": "They brought it out of Abinadab’s house which was in the hill, with God’s ark",
+      "replace": "Uzzah walked beside God’s ark",
+      "reason": "Nova Vulgata, 2 Samuel 6:4: “Oza ambulabat iuxta arcam, et Ahio praecedebat eam”."
+    },
+    {
+      "book": "2SA",
+      "where": "6:8",
+      "type": "nova-vulgata",
+      "find": "displeased",
+      "replace": "grieved",
+      "reason": "Nova Vulgata, 2 Samuel 6:8: “Contristatus autem est David”."
+    },
+    {
+      "book": "2SA",
+      "where": "8:17",
+      "type": "nova-vulgata",
+      "find": "Ahimelech the son of Abiathar",
+      "replace": "Abiathar the son of Ahimelech",
+      "reason": "Nova Vulgata, 2 Samuel 8:17: “Sadoc filius Achitob et Abiathar filius Achimelech sacerdotes”."
+    },
+    {
+      "book": "2SA",
+      "where": "12:30",
+      "type": "nova-vulgata",
+      "find": "their king",
+      "replace": "Milcom",
+      "reason": "Nova Vulgata, 2 Samuel 12:30: “Et tulit diadema Melchom de capite eius”."
+    },
+    {
+      "book": "2SA",
+      "where": "15:24",
+      "type": "nova-vulgata",
+      "find": "Abiathar went up",
+      "replace": "Abiathar offered sacrifices",
+      "reason": "Nova Vulgata, 2 Samuel 15:24: “Et sacrificavit Abiathar, donec omnis populus egressus fuerat de civitate”."
+    },
+    {
+      "book": "2SA",
+      "where": "17:25",
+      "type": "nova-vulgata",
+      "find": "Nahash",
+      "replace": "Jesse",
+      "reason": "Nova Vulgata, 2 Samuel 17:25: “ad Abigail filiam Isai sororem Sarviae”."
+    },
+    {
+      "book": "2SA",
+      "where": "17:28",
+      "type": "nova-vulgata",
+      "find": "beds",
+      "replace": "beds and rugs",
+      "reason": "Nova Vulgata, 2 Samuel 17:28: “obtulerunt ei stratoria et tapetia et pelves”."
+    },
+    {
+      "book": "2SA",
+      "where": "22:5",
+      "type": "nova-vulgata",
+      "find": "ungodliness",
+      "replace": "Belial",
+      "reason": "Nova Vulgata, 2 Samuel 22:5: “torrentes Belial terruerunt me”."
+    },
+    {
+      "book": "2SA",
+      "where": "22:26",
+      "type": "nova-vulgata",
+      "find": "merciful",
+      "replace": "holy",
+      "occurrence": 1,
+      "reason": "Nova Vulgata, 2 Samuel 22:26: “Cum sancto sanctus eris”."
+    },
+    {
+      "book": "2SA",
+      "where": "22:26",
+      "type": "nova-vulgata",
+      "find": "merciful",
+      "replace": "holy",
+      "occurrence": 2,
+      "reason": "Nova Vulgata, 2 Samuel 22:26: “Cum sancto sanctus eris”."
+    },
+    {
+      "book": "2SA",
+      "where": "22:27",
+      "type": "nova-vulgata",
+      "find": "the pure you will show yourself pure",
+      "replace": "the elect you will show yourself elect",
+      "reason": "Nova Vulgata, 2 Samuel 22:27: “cum electo electus eris”."
+    },
+    {
+      "book": "2SA",
+      "where": "22:31",
+      "type": "nova-vulgata",
+      "find": "tested",
+      "replace": "tested by fire",
+      "reason": "Nova Vulgata, 2 Samuel 22:31: “eloquium Domini igne examinatum”."
+    },
+    {
+      "book": "2SA",
+      "where": "22:36",
+      "type": "nova-vulgata",
+      "find": "gentleness",
+      "replace": "favorable hearing",
+      "reason": "Nova Vulgata, 2 Samuel 22:36: “et exauditio tua magnificavit me”."
+    },
+    {
+      "book": "2SA",
+      "where": "23:18",
+      "type": "nova-vulgata",
+      "find": "was chief of the three.",
+      "replace": "was chief of the thirty.",
+      "reason": "Nova Vulgata, 2 Samuel 23:18: “princeps erat de triginta”."
+    },
+    {
+      "book": "2SA",
+      "where": "23:22",
+      "type": "nova-vulgata",
+      "find": "three",
+      "replace": "thirty",
+      "reason": "Nova Vulgata, 2 Samuel 23:22: “et ipse nominatus inter triginta fortissimos”."
+    },
+    {
+      "book": "2SA",
+      "where": "23:27",
+      "type": "nova-vulgata",
+      "find": "Mebunnai",
+      "replace": "Sobbochai",
+      "reason": "Nova Vulgata, 2 Samuel 23:27: “Sobbochai de Husa”."
+    },
+    {
+      "book": "2SA",
+      "where": "23:32",
+      "type": "nova-vulgata",
+      "find": "the sons of Jashen, Jonathan,",
+      "replace": "Jasen of Gun, Jonathan the son of",
+      "reason": "Nova Vulgata, 2 Samuel 23:32–33: “Eliaba de Saalbon, Iasen de Gun, Ionathan filius Samma de Arar” — “Ionathan filius Samma” opens the NV’s v. 33."
+    },
+    {
+      "book": "2SA",
+      "where": "17:29",
+      "type": "nova-vulgata",
+      "find": "cheese of the herd",
+      "replace": "fattened calves",
+      "reason": "Nova Vulgata, 2 Samuel 17:29: “oves et pingues vitulos”."
+    },
+    {
+      "book": "2SA",
+      "where": "1:21",
+      "type": "nova-vulgata",
+      "find": "defiled and cast away",
+      "replace": "cast away",
+      "reason": "Nova Vulgata, 2 Samuel 1:21: “Quia ibi abiectus est clipeus fortium” — nothing corresponds to “defiled”."
+    },
+    {
+      "book": "2SA",
+      "where": "23:18",
+      "type": "nova-vulgata",
+      "find": "had a name among the three.",
+      "replace": "had a name among the thirty.",
+      "reason": "Nova Vulgata, 2 Samuel 23:18: “Nominatus in triginta”."
+    },
+    {
+      "book": "2SA",
+      "where": "23:19",
+      "type": "nova-vulgata",
+      "find": "Wasn’t he most honorable of the three?",
+      "replace": "He was the most honored of the thirty.",
+      "reason": "Nova Vulgata, 2 Samuel 23:19: “et inter triginta nobilior”."
+    },
+    {
+      "book": "2SA",
+      "where": "23:19",
+      "type": "nova-vulgata",
+      "find": "However he wasn’t included as one of the three.",
+      "replace": "However he didn’t attain to the first three.",
+      "reason": "Nova Vulgata, 2 Samuel 23:19: “sed usque ad tres primos non pervenerat”."
+    },
+    {
+      "book": "ACT",
+      "where": "1:25",
+      "type": "nova-vulgata",
+      "find": "fell away",
+      "replace": "turned aside",
+      "reason": "Nova Vulgata, Acts 1:25: “de quo praevaricatus est Iudas”."
+    },
+    {
+      "book": "ACT",
+      "where": "2:26",
+      "type": "nova-vulgata",
+      "find": "dwell",
+      "replace": "rest",
+      "reason": "Nova Vulgata, Acts 2:26: “insuper et caro mea requiescet in spe”."
+    },
+    {
+      "book": "ACT",
+      "where": "12:19",
+      "type": "nova-vulgata",
+      "find": "put to death",
+      "replace": "led away",
+      "reason": "Nova Vulgata, Acts 12:19: “interrogatis custodibus, iussit eos abduci”."
+    },
+    {
+      "book": "ACT",
+      "where": "20:1",
+      "type": "nova-vulgata",
+      "find": "Paul sent for the disciples,",
+      "insert": "exhorted them,",
+      "reason": "Nova Vulgata, Acts 20:1: “accersitis Paulus discipulis et exhortatus eos, valedixit et profectus est”."
+    },
+    {
+      "book": "DEU",
+      "where": "33:2",
+      "type": "nova-vulgata",
+      "find": "He came from the ten thousands of holy ones.",
+      "replace": "He came to Meribah of Kadesh, from its south to Asedoth.",
+      "reason": "Nova Vulgata, Deuteronomy 33:2: “apparuit de monte Pharan et venit in Meribathcades de meridie eius in Asedoth”."
+    },
+    {
+      "book": "DEU",
+      "where": "33:2",
+      "type": "nova-vulgata",
+      "find": "At his right hand was a fiery law for them.",
+      "replace": "",
+      "reason": "Nova Vulgata, Deuteronomy 33:2-3: the verse continues “Vere diligit populos” — there is no fiery-law clause."
+    },
+    {
+      "book": "EXO",
+      "where": "11:2",
+      "type": "nova-vulgata",
+      "find": "jewels of silver, and jewels of gold",
+      "replace": "vessels of silver, and vessels of gold",
+      "reason": "Nova Vulgata, Exodus 11:2: “postulet vir ab amico suo et mulier a vicina sua vasa argentea et aurea”."
+    },
+    {
+      "book": "EXO",
+      "where": "12:35",
+      "type": "nova-vulgata",
+      "find": "jewels of silver, and jewels of gold",
+      "replace": "vessels of silver, and vessels of gold",
+      "reason": "Nova Vulgata, Exodus 12:35: “petierunt ab Aegyptiis vasa argentea et aurea vestemque plurimam”."
+    },
+    {
+      "book": "EXO",
+      "where": "14:21",
+      "type": "nova-vulgata",
+      "find": "east",
+      "replace": "scorching",
+      "reason": "Nova Vulgata, Exodus 14:21: “flante vento vehementi et urente tota nocte”."
+    },
+    {
+      "book": "EXO",
+      "where": "15:2",
+      "type": "nova-vulgata",
+      "find": "song",
+      "replace": "might",
+      "reason": "Nova Vulgata, Exodus 15:2: “Fortitudo mea et robur meum Dominus”."
+    },
+    {
+      "book": "EXO",
+      "where": "18:7",
+      "type": "nova-vulgata",
+      "find": "asked each other of their welfare",
+      "replace": "greeted each other with words of peace",
+      "reason": "Nova Vulgata, Exodus 18:7: “salutaveruntque se mutuo verbis pacificis”."
+    },
+    {
+      "book": "EXO",
+      "where": "22:2",
+      "type": "nova-vulgata",
+      "find": "breaking",
+      "replace": "breaking into a house or tunneling",
+      "reason": "Nova Vulgata, Exodus 22:1: “Si effringens fur domum sive suffodiens fuerit inventus”. The NV numbers this verse 22:1 (WEBC 22:2)."
+    },
+    {
+      "book": "EXO",
+      "where": "22:8",
+      "type": "nova-vulgata",
+      "find": "find out whether or not he has",
+      "replace": "swear that he has not",
+      "reason": "Nova Vulgata, Exodus 22:7: “dominus domus applicabitur ad Deum et iurabit quod non extenderit manum in rem proximi sui”. The NV numbers this verse 22:7 (WEBC 22:8)."
+    },
+    {
+      "book": "EXO",
+      "where": "23:24",
+      "type": "nova-vulgata",
+      "find": "pillars",
+      "replace": "stones",
+      "reason": "Nova Vulgata, Exodus 23:24: “sed destrues eos et confringes lapides eorum”."
+    },
+    {
+      "book": "EZR",
+      "where": "2:40",
+      "type": "nova-vulgata",
+      "find": "the children of Jeshua and Kadmiel, of the children of Hodaviah",
+      "replace": "the children of Jeshua, Kadmiel, Binnui, and Hodaviah",
+      "reason": "Nova Vulgata, Ezra 2:40: “e: filii Iesua, hi sunt filii Cadmihel, Bennui, Odoviae, septuaginta q”."
+    },
+    {
+      "book": "EZR",
+      "where": "3:9",
+      "type": "nova-vulgata",
+      "find": "Kadmiel and his sons, the sons of Judah",
+      "replace": "Kadmiel, Binnui, and Hodaviah",
+      "reason": "Nova Vulgata, Ezra 3:9: “Stetitque Iesua et filii eius et fratres eius, Cadmihel, Bennui et Odovia quasi vir unus”."
+    },
+    {
+      "book": "JDG",
+      "where": "1:16",
+      "type": "nova-vulgata",
+      "find": "people",
+      "replace": "Amalekites",
+      "reason": "Nova Vulgata, Judges 1:16: “et habitaverunt cum Amalecitis”."
+    },
+    {
+      "book": "JDG",
+      "where": "5:2",
+      "type": "nova-vulgata",
+      "find": "the leaders took the lead",
+      "replace": "the locks were loosed",
+      "reason": "Nova Vulgata, Judges 5:2: “Quia comae excussae sunt in Israel”."
+    },
+    {
+      "book": "JDG",
+      "where": "5:7",
+      "type": "nova-vulgata",
+      "find": "rulers",
+      "replace": "mighty",
+      "reason": "Nova Vulgata, Judges 5:7: “Cessaverunt fortes in Israel”."
+    },
+    {
+      "book": "JDG",
+      "where": "5:7",
+      "type": "nova-vulgata",
+      "find": "until I, Deborah, arose",
+      "replace": "until you, Deborah, arose",
+      "reason": "Nova Vulgata, Judges 5:7: “donec surgeres, Debora”."
+    },
+    {
+      "book": "JDG",
+      "where": "5:10",
+      "type": "nova-vulgata",
+      "find": "white",
+      "replace": "sleek",
+      "reason": "Nova Vulgata, Judges 5:10: “Qui ascenditis super nitentes asinas”."
+    },
+    {
+      "book": "JDG",
+      "where": "5:11",
+      "type": "nova-vulgata",
+      "find": "Far from the noise of archers, in the places of drawing water,",
+      "replace": "At the voice of those who distribute the waters at the channels,",
+      "reason": "Nova Vulgata, Judges 5:11: “Ad vocem eorum, qui distribuunt aquas ad canales”."
+    },
+    {
+      "book": "JDG",
+      "where": "5:12",
+      "type": "nova-vulgata",
+      "find": "lead away",
+      "replace": "seize",
+      "reason": "Nova Vulgata, Judges 5:12: “Surge, Barac, et apprehende captivos tuos”."
+    },
+    {
+      "book": "JDG",
+      "where": "5:13",
+      "type": "nova-vulgata",
+      "find": "The LORD came down for me against the mighty.",
+      "replace": "The LORD’s people came down for him among the mighty.",
+      "reason": "Nova Vulgata, Judges 5:13: “populus Domini descendit pro eo in fortibus”."
+    },
+    {
+      "book": "JDG",
+      "where": "5:13",
+      "type": "nova-vulgata",
+      "find": "Then a remnant of the nobles and the people came down.",
+      "replace": "Then a remnant came down to the nobles.",
+      "reason": "Nova Vulgata, Judges 5:13: “Tunc descenderunt reliquiae ad inclitos, populus Domini descendit”."
+    },
+    {
+      "book": "JDG",
+      "where": "5:21",
+      "type": "nova-vulgata",
+      "find": "that ancient river",
+      "replace": "the river of battles",
+      "reason": "Nova Vulgata, Judges 5:21: “torrens proeliorum, torrens Cison”."
+    },
+    {
+      "book": "JDG",
+      "where": "5:23",
+      "type": "nova-vulgata",
+      "find": "against",
+      "replace": "among",
+      "reason": "Nova Vulgata, Judges 5:23: “in adiutorium Domini in fortibus”."
+    },
+    {
+      "book": "JDG",
+      "where": "5:7",
+      "type": "nova-vulgata",
+      "find": "Until I arose a mother in Israel.",
+      "replace": "Until you arose, a mother in Israel.",
+      "reason": "Nova Vulgata, Judges 5:7: “donec surgeres, Debora, surgeres mater in Israel”."
+    },
+    {
+      "book": "JDG",
+      "where": "5:11",
+      "type": "nova-vulgata",
+      "find": "the righteous acts of his rule",
+      "replace": "the righteous acts of his might",
+      "reason": "Nova Vulgata, Judges 5:11: “iustitias fortitudinis eius”."
+    },
+    {
+      "book": "JDG",
+      "where": "5:14",
+      "type": "nova-vulgata",
+      "find": "Those whose root is in Amalek came out of Ephraim,",
+      "replace": "From Ephraim princes came into the valley,",
+      "reason": "Nova Vulgata, Judges 5:14: “Ex Ephraim venerunt principes in vallem”."
+    },
+    {
+      "book": "JDG",
+      "where": "18:7",
+      "type": "nova-vulgata",
+      "find": "for there was no one in the land possessing authority, that might put them to shame in anything,",
+      "replace": "with no one at all resisting them,",
+      "reason": "Nova Vulgata, Judges 18:7: “nullo eis penitus resistente”."
+    },
+    {
+      "book": "JHN",
+      "where": "8:28",
+      "type": "nova-vulgata",
+      "find": "I am he",
+      "replace": "I am",
+      "reason": "Nova Vulgata, John 8:28: “tunc cognoscetis quia ego sum”."
+    },
+    {
+      "book": "JHN",
+      "where": "12:6",
+      "type": "nova-vulgata",
+      "find": "used to steal",
+      "replace": "used to carry",
+      "reason": "Nova Vulgata, John 12:6: “sed quia fur erat et, loculos habens, ea, quae mittebantur, portabat”."
+    },
+    {
+      "book": "JHN",
+      "where": "13:19",
+      "type": "nova-vulgata",
+      "find": "I am he",
+      "replace": "I am",
+      "reason": "Nova Vulgata, John 13:19: “ut credatis, cum factum fuerit, quia ego sum”."
+    },
+    {
+      "book": "JOS",
+      "where": "13:2",
+      "type": "nova-vulgata",
+      "find": "the regions",
+      "replace": "Galilee, the region",
+      "reason": "Nova Vulgata, Joshua 13:2: “Omnis videlicet Galilaea, regio Philisthim et universa Gesuri”."
+    },
+    {
+      "book": "LEV",
+      "where": "6:2",
+      "type": "nova-vulgata",
+      "find": "oppressed",
+      "replace": "defrauded",
+      "reason": "Nova Vulgata, Leviticus 5:21: “aut calumniam fecerit”. The NV numbers this verse 5:21 (WEBC 6:2)."
+    },
+    {
+      "book": "LEV",
+      "where": "6:4",
+      "type": "nova-vulgata",
+      "find": "oppression",
+      "replace": "fraud",
+      "reason": "Nova Vulgata, Leviticus 5:23: “reddet omnia, quae per rapinam vel calumniam abstulerit”. The NV numbers this verse 5:23 (WEBC 6:4)."
+    },
+    {
+      "book": "LEV",
+      "where": "15:31",
+      "type": "nova-vulgata",
+      "find": "separate the children of Israel from",
+      "replace": "teach the children of Israel to beware of",
+      "reason": "Nova Vulgata, Leviticus 15:31: “Docebitis ergo filios Israel, ut caveant immunditiam”."
+    },
+    {
+      "book": "LUK",
+      "where": "1:28",
+      "type": "nova-vulgata",
+      "find": "Rejoice, you highly favored one!",
+      "replace": "Hail, full of grace!",
+      "reason": "Nova Vulgata, Luke 1:28: “Ave, gratia plena, Dominus tecum”."
+    },
+    {
+      "book": "LUK",
+      "where": "8:27",
+      "type": "nova-vulgata",
+      "find": "who had demons for a long time met him. He wore no clothes,",
+      "replace": "who had demons met him. For a long time he wore no clothes,",
+      "reason": "Nova Vulgata, Luke 8:27: “qui habebat daemonia et iam tempore multo vestimento non induebatur”."
+    },
+    {
+      "book": "LUK",
+      "where": "1:28",
+      "type": "nova-vulgata",
+      "find": "with you. Blessed are you among women!",
+      "replace": "with you.",
+      "reason": "Nova Vulgata, Luke 1:28: the angel's greeting ends “Dominus tecum”; this clause is absent."
+    },
+    {
+      "book": "MAT",
+      "where": "6:11",
+      "type": "nova-vulgata",
+      "find": "daily",
+      "replace": "supersubstantial",
+      "reason": "Nova Vulgata, Matthew 6:11: “Panem nostrum supersubstantialem da nobis hodie”."
+    },
+    {
+      "book": "MRK",
+      "where": "7:22",
+      "type": "nova-vulgata",
+      "find": "lustful desires",
+      "replace": "licentiousness",
+      "reason": "Nova Vulgata, Mark 7:22: “nequitiae, dolus, impudicitia, oculus malus”."
+    },
+    {
+      "book": "NUM",
+      "where": "14:12",
+      "type": "nova-vulgata",
+      "find": "disinherit",
+      "replace": "consume",
+      "reason": "Nova Vulgata, Numbers 14:12: “Feriam igitur eos pestilentia atque consumam”."
+    },
+    {
+      "book": "NUM",
+      "where": "18:23",
+      "type": "nova-vulgata",
+      "find": "their iniquity",
+      "replace": "the sins of the people",
+      "reason": "Nova Vulgata, Numbers 18:23: “servientibus et portantibus peccata populi”."
+    },
+    {
+      "book": "NUM",
+      "where": "25:8",
+      "type": "nova-vulgata",
+      "find": "and thrust both of them through, the man of Israel, and the woman through her body.",
+      "replace": "and thrust both of them through together, the man of Israel and the woman, in the genitals.",
+      "reason": "Nova Vulgata, Numbers 25:8: “perfodit ambos simul, virum scilicet et mulierem, in locis genitalibus”."
+    },
+    {
+      "book": "PRO",
+      "where": "1:9",
+      "type": "nova-vulgata",
+      "find": "garland",
+      "replace": "diadem",
+      "reason": "Nova Vulgata, Proverbs 1:9: “quia diadema gratiae sunt capiti tuo”."
+    },
+    {
+      "book": "PRO",
+      "where": "1:11",
+      "type": "nova-vulgata",
+      "find": "lurk secretly for",
+      "replace": "hide snares against",
+      "reason": "Nova Vulgata, Proverbs 1:11: “abscondamus tendiculas contra insontem frustra”."
+    },
+    {
+      "book": "PRO",
+      "where": "1:29",
+      "type": "nova-vulgata",
+      "find": "knowledge",
+      "replace": "discipline",
+      "reason": "Nova Vulgata, Proverbs 1:29: “eo quod exosam habuerint disciplinam”."
+    },
+    {
+      "book": "PRO",
+      "where": "2:17",
+      "type": "nova-vulgata",
+      "find": "the friend of her youth",
+      "replace": "the guide of her youth",
+      "reason": "Nova Vulgata, Proverbs 2:17: “et relinquit ducem pubertatis suae”."
+    },
+    {
+      "book": "PRO",
+      "where": "3:26",
+      "type": "nova-vulgata",
+      "find": "your confidence",
+      "replace": "at your side",
+      "reason": "Nova Vulgata, Proverbs 3:26: “Dominus enim erit in latere tuo”."
+    },
+    {
+      "book": "PRO",
+      "where": "5:19",
+      "type": "nova-vulgata",
+      "find": "let her breasts satisfy you at all times.",
+      "replace": "let her caresses intoxicate you at all times.",
+      "reason": "Nova Vulgata, Proverbs 5:19: “blanditiae eius inebrient te in omni tempore”."
+    },
+    {
+      "book": "PRO",
+      "where": "6:5",
+      "type": "nova-vulgata",
+      "find": "the hand of the hunter",
+      "replace": "the net",
+      "reason": "Nova Vulgata, Proverbs 6:5: “Eruere quasi dammula de rete”."
+    },
+    {
+      "book": "PRO",
+      "where": "9:2",
+      "type": "nova-vulgata",
+      "find": "She has prepared her meat.",
+      "replace": "She has sacrificed her victims.",
+      "reason": "Nova Vulgata, Proverbs 9:2: “immolavit victimas suas”."
+    },
+    {
+      "book": "PRO",
+      "where": "9:3",
+      "type": "nova-vulgata",
+      "find": "She cries from the highest places of the city:",
+      "replace": "They call to the citadel and to the heights of the city:",
+      "reason": "Nova Vulgata, Proverbs 9:3: “ut vocarent ad arcem et ad excelsa civitatis”."
+    },
+    {
+      "book": "PRO",
+      "where": "10:23",
+      "type": "nova-vulgata",
+      "find": "fool’s pleasure",
+      "replace": "fool’s sport",
+      "reason": "Nova Vulgata, Proverbs 10:23: “Quasi per risum stultus operatur scelus”."
+    },
+    {
+      "book": "PRO",
+      "where": "11:6",
+      "type": "nova-vulgata",
+      "find": "by evil desires",
+      "replace": "in their own snares",
+      "reason": "Nova Vulgata, Proverbs 11:6: “et in insidiis suis capientur iniqui”."
+    },
+    {
+      "book": "PRO",
+      "where": "12:9",
+      "type": "nova-vulgata",
+      "find": "Better is he who is little known, and has a servant,",
+      "replace": "Better is a poor man who serves himself,",
+      "reason": "Nova Vulgata, Proverbs 12:9: “Melior est pauper, qui ministrat sibi”."
+    },
+    {
+      "book": "PRO",
+      "where": "14:32",
+      "type": "nova-vulgata",
+      "find": "but in death, the righteous has a refuge.",
+      "replace": "but the righteous hopes in his integrity.",
+      "reason": "Nova Vulgata, Proverbs 14:32: “sperat autem iustus in integritate sua”."
+    },
+    {
+      "book": "PRO",
+      "where": "15:2",
+      "type": "nova-vulgata",
+      "find": "commends",
+      "replace": "distills",
+      "reason": "Nova Vulgata, Proverbs 15:2: “Lingua sapientium stillat scientiam”."
+    },
+    {
+      "book": "PRO",
+      "where": "15:19",
+      "type": "nova-vulgata",
+      "find": "upright",
+      "replace": "diligent",
+      "reason": "Nova Vulgata, Proverbs 15:19: “via sollertium complanata”."
+    },
+    {
+      "book": "PRO",
+      "where": "15:26",
+      "type": "nova-vulgata",
+      "find": "the thoughts of the pure are pleasing.",
+      "replace": "pure speech is most fair.",
+      "reason": "Nova Vulgata, Proverbs 15:26: “et purus sermo pulcherrimus”."
+    },
+    {
+      "book": "PRO",
+      "where": "7:22",
+      "type": "nova-vulgata",
+      "find": "as a fool stepping into a noose.",
+      "replace": "like a stag ensnared in a bond.",
+      "reason": "Nova Vulgata, Proverbs 7:22: “sicut irretitur vinculo cervus”."
+    },
+    {
+      "book": "PRO",
+      "where": "6:5",
+      "type": "nova-vulgata",
+      "find": "the snare of the fowler.",
+      "replace": "the hand of the fowler.",
+      "reason": "Nova Vulgata, Proverbs 6:5: “et quasi avis de manu aucupis”."
+    },
+    {
+      "book": "PRO",
+      "where": "12:9",
+      "type": "nova-vulgata",
+      "find": "than he who honors himself and lacks bread.",
+      "replace": "than a boastful man who lacks bread.",
+      "reason": "Nova Vulgata, Proverbs 12:9: “quam gloriosus et indigens pane”."
+    },
+    {
+      "book": "PRO",
+      "where": "7:22",
+      "type": "nova-vulgata",
+      "find": "He followed her immediately,",
+      "replace": "The fool follows her,",
+      "reason": "Nova Vulgata, Proverbs 7:22: “Stultus eam sequitur”."
+    },
+    {
+      "book": "PRO",
+      "where": "7:22",
+      "type": "nova-vulgata",
+      "find": "as an ox goes to the slaughter,",
+      "replace": "like an ox led to the slaughter,",
+      "reason": "Nova Vulgata, Proverbs 7:22: “quasi bos ductus ad victimam”."
+    },
+    {
+      "book": "ROM",
+      "where": "3:25",
+      "type": "nova-vulgata",
+      "find": "God sent to be an atoning sacrifice",
+      "replace": "God set forth as a mercy seat",
+      "reason": "Nova Vulgata, Romans 3:25: “quem proposuit Deus propitiatorium per fidem in sanguine ipsius”."
+    },
+    {
+      "book": "RUT",
+      "where": "1:21",
+      "type": "nova-vulgata",
+      "find": "testified against",
+      "replace": "humbled",
+      "reason": "Nova Vulgata, Ruth 1:21: “cur igitur vocatis me Noemi, quam humiliavit Dominus, et afflixit Omnipotens?”."
+    }
+  ]
+}
